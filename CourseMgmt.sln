@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{257D2403-C92F-4610-A127-6C661061B5F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{2712D2E6-975F-403F-A533-F83D5FB93119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizLogic", "BizLogic\BizLogic.csproj", "{C8DCDC6B-C0AD-480A-91F2-CC0F2C9F1159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		AdminWeb-Debug|Any CPU = AdminWeb-Debug|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		webcompile|Any CPU = webcompile|Any CPU
+		只生成设计器|Any CPU = 只生成设计器|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257D2403-C92F-4610-A127-6C661061B5F7}.AdminWeb-Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257D2403-C92F-4610-A127-6C661061B5F7}.AdminWeb-Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257D2403-C92F-4610-A127-6C661061B5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257D2403-C92F-4610-A127-6C661061B5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257D2403-C92F-4610-A127-6C661061B5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257D2403-C92F-4610-A127-6C661061B5F7}.webcompile|Any CPU.ActiveCfg = webcompile|Any CPU
+		{257D2403-C92F-4610-A127-6C661061B5F7}.webcompile|Any CPU.Build.0 = webcompile|Any CPU
+		{257D2403-C92F-4610-A127-6C661061B5F7}.只生成设计器|Any CPU.ActiveCfg = webcompile|Any CPU
+		{257D2403-C92F-4610-A127-6C661061B5F7}.只生成设计器|Any CPU.Build.0 = webcompile|Any CPU
+		{2712D2E6-975F-403F-A533-F83D5FB93119}.AdminWeb-Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2712D2E6-975F-403F-A533-F83D5FB93119}.AdminWeb-Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2712D2E6-975F-403F-A533-F83D5FB93119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2712D2E6-975F-403F-A533-F83D5FB93119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2712D2E6-975F-403F-A533-F83D5FB93119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2712D2E6-975F-403F-A533-F83D5FB93119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2712D2E6-975F-403F-A533-F83D5FB93119}.webcompile|Any CPU.ActiveCfg = Release|Any CPU
+		{2712D2E6-975F-403F-A533-F83D5FB93119}.webcompile|Any CPU.Build.0 = Release|Any CPU
+		{2712D2E6-975F-403F-A533-F83D5FB93119}.只生成设计器|Any CPU.ActiveCfg = Release|Any CPU
+		{2712D2E6-975F-403F-A533-F83D5FB93119}.只生成设计器|Any CPU.Build.0 = Release|Any CPU
+		{C8DCDC6B-C0AD-480A-91F2-CC0F2C9F1159}.AdminWeb-Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DCDC6B-C0AD-480A-91F2-CC0F2C9F1159}.AdminWeb-Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DCDC6B-C0AD-480A-91F2-CC0F2C9F1159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DCDC6B-C0AD-480A-91F2-CC0F2C9F1159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DCDC6B-C0AD-480A-91F2-CC0F2C9F1159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DCDC6B-C0AD-480A-91F2-CC0F2C9F1159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8DCDC6B-C0AD-480A-91F2-CC0F2C9F1159}.webcompile|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DCDC6B-C0AD-480A-91F2-CC0F2C9F1159}.webcompile|Any CPU.Build.0 = Release|Any CPU
+		{C8DCDC6B-C0AD-480A-91F2-CC0F2C9F1159}.只生成设计器|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DCDC6B-C0AD-480A-91F2-CC0F2C9F1159}.只生成设计器|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
