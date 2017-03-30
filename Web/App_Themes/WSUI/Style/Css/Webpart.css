@@ -1,0 +1,97 @@
+﻿.PortalWebPart {
+	border: 1px solid #447EBE;
+	width: 99%;
+	margin: 2px;
+	color: #072F60;
+	background-color: #ffffff;
+}
+.PortalWebPart .TitleBar {
+	font-size: 9pt;
+	padding: 4px;
+	border-bottom: 1px solid #447EBE;
+	height: 13px;
+	background-image: url(../img/Webpartbg.jpg);
+}
+.PortalWebPart .TitleBar a {
+	font-size: 9pt;
+	color: #326EAA;
+	text-decoration: none;
+}
+.PortalWebPart .TitleBar a:hover {
+	font-size: 9pt;
+	color: #326EAA;
+	text-decoration: underline;
+}
+.PortalWebPart .TitleBar td {
+	padding-right: 5px;
+	font-size: 9pt;
+}
+.PortalWebPart .Content {
+}
+.PortalWebPart .Content td {
+	font-size: small;
+	padding: 4px;
+	height:18px;
+}
+.PortalWebPart .Content .Unread {
+	list-style-image: url(../img/DotUnread.jpg);
+	list-style-position: outside;
+}
+.PortalWebPart .Content .Unread td a {
+	font-size: small;
+	color: #0B62AF;
+	text-decoration: none;
+}
+.PortalWebPart .Content .Unread td a:hover {
+	font-size: small;
+	color: #0B62AF;
+	text-decoration: underline;
+}
+.PortalWebPart .Content .Unread td a img {
+	border: none;
+}
+.PortalWebPart .Content .Unread .Date {
+	width: 60px;
+	color: #3170A6;
+	float: right;
+	text-align: left;
+	overflow: hidden;
+	height: 10px;
+	vertical-align:middle;
+}
+.PortalWebPart .Content .RSSTitle {
+	height: 15px;
+	overflow: hidden;
+}
+.PortalWebPart .Content .Readed td a {
+	font-size: small;
+	color: #88B3EA;
+	text-decoration: none;
+}
+.PortalWebPart .Content .Readed td a:hover {
+	font-size: small;
+	color: #88B3EA;
+	text-decoration: underline;
+}
+.PortalWebPart .Content .Readed td a img {
+	border: none;
+}
+.PortalWebPart .Content .Readed .Date {
+	width: 60px;
+	color: #959595;
+	float: right;
+	text-align: left;
+	overflow: hidden;
+	height: 10px;
+	vertical-align:middle;
+}
+.DivFloatLeft {
+	float: left;
+}
+.DivFloatRight {
+	float: right;
+	text-align: right;
+}
+.MarginPart {
+	margin-top: 7px;
+}

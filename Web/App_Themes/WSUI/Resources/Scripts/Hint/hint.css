@@ -1,0 +1,27 @@
+.HintItem
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #333333;
+	background-color: #F0F0F0;
+	border: none;
+	padding: 2px 2px 1px 3px;
+}
+.HintItemSelect
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	background-color: navy;
+	color: #FFFFFF;
+	border: none;
+	padding: 2px 2px 1px 3px;
+}
+.HintTextbox
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #333333;
+	background-color: #FFFCF9;
+	border: 1px solid #9C9491;
+	width: 100%;
+}

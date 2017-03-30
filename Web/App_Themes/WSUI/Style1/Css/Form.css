@@ -1,0 +1,212 @@
+.EditPageForm {
+	padding: 8px;
+	background-color: #EEEEEE;
+}
+.EditPageForm .FormTableMore {
+	border-top: 1px solid #cccccc;
+	margin: 4px 8px 4px 8px;
+	padding-top: 4px;
+	cursor: pointer;
+}
+.EditPageForm .FormTable td {
+	vertical-align: middle;
+	padding: 1px;
+}
+.EditPageForm .FormTable .FieldName {
+	width: 80px;
+	text-align: left;
+	padding-left: 8px;
+	vertical-align:middle;
+}
+.EditPageForm .FormTable .FieldName a {
+	color: #666699;
+	border: 1px solid #aaaaaa;
+	padding: 1px 4px;
+	width:90%;
+	background-image: url(../Img/botton-04.jpg);
+}
+.EditPageForm .FormTable .FieldName a:hover {
+	color: #3F52B8;
+	border: 1px solid #aaaaaa;
+	padding: 1px 4px;
+	width:90%;
+	background-image: url(../Img/title04bg.jpg);
+}
+.EditPageForm .FormTable .FieldInput .InputLarge {
+	width: 80%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	/*color: #595959;*/
+	color: #000000;
+	background-color: #FFFFFF;
+	border: 1px solid #7E7E7E;
+	height: 20px;
+}
+.EditPageForm .FormTable .FieldInput .InputSmall {
+	width: 150px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	/*color: #595959;*/
+	color: #000000;
+	background-color: #FFFFFF;
+	border: 1px solid #7E7E7E;
+	height: 20px;
+	
+}
+.EditPageForm .FormTable .FieldInput .InputReadOnly {
+	height: 20px;
+	width: 150px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #802D00;
+	background-color: #FAF8CE;
+	border: 1px solid #7796BA;	
+}
+.EditPageForm .FormTable .FieldInput .TextArea {
+	width: 300px;
+	border: 1px solid #cccccc;
+}
+
+.EditPageForm .FormTable .FieldInput select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.EditPageForm .FormTable .FieldInfo {
+	color: #FF8484;
+}
+
+.Textbox01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #214B7E;
+	background-color: #F4F9FF;
+	border: 1px solid #7796BA;
+	height: 18px;
+}
+.Textbox02{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	/*color: #797979;*/
+	color: #000000;
+	background-color: #FFFFFF;
+	border: 1px solid #9F9F9F;
+	height: 18px;
+}
+
+.Textbox03 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #24476A;
+	background-color: #FFFFFF;
+	border: 1px solid #768DA4;
+}
+.TextboxRead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #802D00;
+	background-color: #FAF8CE;
+	border: 1px solid #7796BA;
+}
+
+.TextboxLine {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	/*color: #333333;*/
+	color: #000000;
+	background: transparent;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: 1px solid #9C9491;
+}
+
+.TextArea01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #214B7E;
+	background-color: #F4F9FF;
+	border: 1px solid #7796BA;
+}
+.TextArea02 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	/*color: #797979;*/
+	color: #000000;
+	background-color: #FFFFFF;
+	border: 1px solid #9F9F9F;
+}
+.select01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #214B7E;
+	background-color: #F4F9FF;
+	border: 1px solid #7796BA;
+	height: 18px;
+}
+
+.select02 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+/*	color: #797979;*/
+		color: #000000;
+	background-color: #FFFFFF;
+	border: 1px solid #9F9F9F;
+	height: 18px;
+}
+
+.inputBtn{
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+color: #24476A; 
+height: 18px; 
+border: solid 1px #768DA4; 
+padding:1px 0 0 0;
+background:#FFFFFF url(../Img/botton-04.jpg) ;
+}
+.Botton01{ 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+color: #003677; 
+height: 23px; 
+border: solid 1px #4573AA; 
+padding-left:10px;
+padding-right:10px;
+background:#ffffff url(../Img/botton-01.jpg) -2px ;
+}
+
+.Botton02{ 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+color: #003677; 
+height: 23px; 
+border: solid 1px #4573AA; 
+padding-left:2px;
+padding-right:2px;
+background:#ffffff url(../Img/botton-01.jpg) -2px ;
+}
+.Botton03{ 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+color: #802D00; 
+height: 23px; 
+border: solid 1px #C26200; 
+padding-left:2px;
+padding-right:2px;
+background:#ffffff url(../Img/botton-03.jpg) -2px ;
+}
+.Botton04{ 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+color: #24476A; 
+height: 18px; 
+border: solid 1px #768DA4; 
+padding:1px 0 0 0;
+background:#FFFFFF url(../Img/botton-04.jpg) ;
+}
+
+
+
+.Btn2 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; color: white; height: 18px; border: solid 1px; background-color: #999; padding-top:1px; outline: solid 1px black; }
+.text-001{ color: #5c5c5c; line-height: 18px;  letter-spacing: 2px; }
+.text-003{ color: #5c5c5c; line-height: 14px;  letter-spacing: 0px; }
+.text-002{ font-size: 14px; color: #5c5c5c; line-height: 18px; letter-spacing: 1px; }

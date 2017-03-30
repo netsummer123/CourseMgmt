@@ -1,0 +1,161 @@
+.footer {
+	margin: 0px;
+	background-image: url(../Img/footerbg.jpg);
+	height: 9px;
+	border: 1px solid #98A9B3;
+	border-collapse: collapse;
+	background-repeat: repeat-x;
+	background-position: top;
+}
+.footer td {
+	padding: 4px;
+	padding-left: 6px;
+}
+.banner {
+	background-image: url(../Img/banner-bg.jpg);
+	height: 46px;
+	border-collapse: collapse;
+	background-repeat: repeat-x;
+	background-position: top;
+	width:100%;
+}
+.banner .bannerpic {
+	background-image: url(../Img/banner.jpg);
+	background-repeat: no-repeat;
+	background-position: left;
+	width: 311px;
+}
+.banner .bannerright {
+	background: url(../Img/banner-bg.jpg) repeat-x;
+	text-align: right;
+	padding-right:5px;
+}
+.banner .bannerright table tr td,.banner .bannerright table tr td a{
+	color: white;
+}
+.banner .bannerright .topmenu,.banner .bannerright .topmenu a{
+	color: white;
+}
+.banner .bannerright .topmenuhot a{
+	color:#FFDF00;
+	font-weight:bold;
+}
+
+.banner .bannermiddle{
+	background-image: url(../Img/banner-bg-right.jpg);
+	background-repeat: no-repeat;
+	background-position: left;
+}
+.pad4{
+	margin: 2px;
+}
+.mainbox {
+	border: 1px solid #4D7DAE;
+	background:#90CFF4 url(../Img/mainboxbg.jpg) repeat-x top;
+}
+.mainbar {
+	background-image: url(../Img/info-bg.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+	height: 22px;
+	border-top: 1px solid #447EBD;
+	border-left: 1px solid #447EBD;
+	border-right: 1px solid #A6DAFF;
+	border-bottom: 1px solid #A6DAFF;
+	color: White;
+	padding: 0px 10px 0px 10px;
+	text-align: center;
+}
+.frameright{
+	border-right:1px solid #447EBE;
+}
+.frameleft{
+	border-left:1px solid #447EBE;
+}
+.frameall{
+	border:1px solid #447EBE;
+}
+.frameboth{
+	border-left:1px solid #447EBE;
+	border-right:1px solid #447EBE;
+}
+.frametop{
+	border-left:1px solid #447EBE;
+}
+.framebottom{
+	border-bottom:1px solid #447EBE;
+}
+.framemidbg{
+	background: #90CFF4;
+}
+.menu1 {
+	margin: 0px;
+	height: 168px;
+	overflow: hidden;
+}
+.menu1 .MenuListItem {
+	height: 23px;
+	background-image: url(../Img/leftmenubg.jpg);
+	border-bottom: 1px solid #CCCCCC;
+	padding-left: 20px;
+	padding-top: 4px;
+	cursor:pointer;
+	color: #1B557D;
+}
+.menu1 .current2 {
+	height: 23px;
+	background-image: url(../Img/menuiconbg2.gif);
+	border-bottom: 1px solid #CCCCCC;
+	padding-left: 20px;
+	padding-top: 4px;
+	cursor:pointer;
+	color: #FFFFFF;
+}
+.menu1 .Current2Over
+{
+	height: 23px;
+	background-image: url(../Img/menuiconbg3.gif);
+	border-bottom: 1px solid #447EBE;
+	padding-left: 20px;
+	padding-top: 4px;
+	cursor:pointer;
+	color: #FFFFFF;
+}
+
+/*- Menuicon--------------------------- */
+.menuicon {
+	width: 180px;
+	margin: 0px;
+	float: left;
+	background-image: url(../Img/menuiconbg.jpg);
+	border-left: #447EBE 1px solid;
+	border-right: #447EBE 1px solid;
+	border-bottom: #447EBE 1px solid;
+	padding: 0 4px 0 4px;
+}
+.menuicon ul {
+	margin: 0 2px;
+	padding: 0;
+	list-style: none;
+}
+.menuicon li {
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+.menuicon a {
+	float: left;
+	margin: 0;
+	padding: 6px;
+	text-decoration: none;
+}
+.menuicon a:hover {
+	background-image: url(../Img/menuiconbg2.gif);
+}
+.menuicon .current a {
+	background-image: url(../Img/menuiconbg2.gif);
+}
+.menuicon .current a:hover {
+	background-image: url(../Img/menuiconbg3.gif);
+}
+/*- Menubar--------------------------- */

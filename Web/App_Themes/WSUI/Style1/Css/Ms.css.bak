@@ -1,0 +1,34 @@
+.ms-PartSpacingVertical {
+	display: none;
+}
+
+.ms-listviewtable{
+	background-color:white;
+}
+.ms-viewheadertr{
+	display:none;
+}
+.ms-unselectedtitle{
+	display:none;
+}
+.ms-vb2{
+	overflow:hidden;
+	white-space:nowrap;
+}
+.ms-vb2 a,.ms-vb2 a:visited {
+	font-size: 9pt;
+	color: #326EAA;
+	text-decoration: none;
+}
+.ms-vb2 a:hover {
+	font-size: 9pt;
+	color: #326EAA;
+	text-decoration: underline;
+}
+
+.ms-SPLink A:link,.ms-SPLink A:visited{
+	color:#ffffff;
+}
+.ms-SPLink IMG{
+	display:none;
+}

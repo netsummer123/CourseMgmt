@@ -1,0 +1,33 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.banner {
+	background:#449C22 url(../images/Expo/Banner02.jpg) no-repeat;
+}
+.Footer{
+  background: #137334;
+  height: 25px;
+  border-top: 1px solid #4D79AA;
+  border-bottom: 1px solid #4D79AA;
+  float: left;
+  width: 100%;
+} 
+.Footer .Left{
+	float: left;
+	width: 980px;
+	height: 25px;
+	line-height: 25px;
+	padding-left: 20px;
+	color: White;
+}
+.Footer .Right{
+	float: right;
+	width: 2px;
+}
+.white {
+   font-size:12px;
+   color: #FFFFFF;
+}

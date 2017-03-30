@@ -1,0 +1,31 @@
+.MainTable {border: 1px solid #C2C2C2 ; border-collapse: collapse; background-color:#FFFFFF;}
+.MainTable tr{
+	line-height: 22px;
+}
+.MainTable tr td {font-size:9pt;border: #CCCCCC 1px solid; padding: 0px 2px;}
+
+.MainTable .TableHeader {
+	background:#9EC9FA url(../Img/TableHead01.gif) repeat-x;
+	height: 23px;
+	font-weight: bold;
+	color: #4A4A4A;
+	text-align: center;
+}
+.MainTable .TableHeader td{
+	color: #4A4A4A;
+}
+
+.MainTable tr th{
+	text-align: center;
+	font-weight: normal;border: #CCCCCC 1px solid;color: #4A4A4A;
+	padding: 0px;
+}
+.AlignLeft{
+	text-align: left;
+}
+.AlignRight{
+	text-align: right;
+}
+.AlignCenter{
+	text-align: center;
+}

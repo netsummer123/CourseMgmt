@@ -1,0 +1,19 @@
+.Footer{
+  background: url(../Img/FooterBg.jpg) repeat-x;
+  height: 25px;
+  border-top: 1px solid #4D79AA;
+  border-bottom: 1px solid #4D79AA;
+  float: left;
+} 
+.Footer .Left{
+	float: left;
+	width: 980px;
+	height: 25px;
+	line-height: 25px;
+	padding-left: 20px;
+	color: White;
+}
+.Footer .Right{
+	float: right;
+	width: 2px;
+}

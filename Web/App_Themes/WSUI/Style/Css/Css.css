@@ -1,0 +1,467 @@
+﻿@import url('Basic.css');
+@import url('Htmls.css');
+@import url('Layout.css');
+@import url('Fonts.css');
+@import url('Webpart.css');
+@import url('Table.css');
+@import url('Form.css');
+@import url('Tabber.css');
+@import url('Article.css');
+@import url('Print.css');
+@import url('Box.css');
+@import url('Top.css');
+.ScrollDiv {
+	SCROLLBAR-TRACK-COLOR: #FFFFFF;
+	SCROLLBAR-FACE-COLOR: #FFFFFF;
+	SCROLLBAR-ARROW-COLOR: #3F52B8;
+	SCROLLBAR-SHADOW-COLOR: #CFCFCE;
+	SCROLLBAR-HIGHLIGHT-COLOR: #CFCFCE;
+	SCROLLBAR-3DLIGHT-COLOR: #FFFFFF;
+	SCROLLBAR-DARKSHADOW-COLOR: #FFFFFF;
+	SCROLLBAR-BASE-COLOR: #FFFFFF;
+	overflow: auto;
+}
+#MainTable {
+	SCROLLBAR-TRACK-COLOR: #FFFFFF;
+	SCROLLBAR-FACE-COLOR: #FFFFFF;
+	SCROLLBAR-ARROW-COLOR: #3F52B8;
+	SCROLLBAR-SHADOW-COLOR: #CFCFCE;
+	SCROLLBAR-HIGHLIGHT-COLOR: #CFCFCE;
+	SCROLLBAR-3DLIGHT-COLOR: #FFFFFF;
+	SCROLLBAR-DARKSHADOW-COLOR: #FFFFFF;
+	SCROLLBAR-BASE-COLOR: #FFFFFF;
+/*	SCROLLBAR-TRACK-COLOR: #E3EFFF;
+	SCROLLBAR-FACE-COLOR: #83ADE9;
+	SCROLLBAR-ARROW-COLOR: #365581;
+	SCROLLBAR-SHADOW-COLOR: #EFEFEF;
+	SCROLLBAR-HIGHLIGHT-COLOR: #83ADE7;
+	SCROLLBAR-3DLIGHT-COLOR: #EFEFEF;
+	SCROLLBAR-DARKSHADOW-COLOR: #2B87DC;
+	SCROLLBAR-BASE-COLOR: #E3EFFF;
+	overflow:auto;*/
+}
+.ms-PartSpacingVertical {
+	display: none;
+}
+#zz11_Menu {
+	color: #FFFFFF;
+}
+#zz9_Menu {
+	color: #FFFFFF;
+}
+.PageTitleTable {
+	background-image: url('/UI Standard/Images/TitleBg.png');
+	border: 1px solid #CCCCCC;
+	padding: 4px;
+	border-left:none;
+}
+.PageTitle {
+	color: #000000;
+}
+.PageDescription {
+	color: #888888;
+	padding-left: 5px;
+}
+.PageToolBar {
+	padding: 4px;
+	background-color: #F3F3F3;
+	border-bottom: 1px solid #CCCCCC;
+}
+.PageToolBarItem td {
+	padding: 0px 10px 0px 10px;
+	vertical-align: middle;
+	border-right: 1px solid #CCCCCC;
+	color: #3F52B8;
+	white-space: nowrap;
+}
+.PageToolBarItem a {
+	color: #3F52B8;
+}
+.PageToolBarItem a:hover {
+	color: #3F52B8;
+}
+.PageSearch {
+	border-bottom: 1px solid #CCCCCC;
+	background-color: #EEEEEE;
+}
+.PageSearchTD {
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+	height: 18px;
+	padding: 2px;
+}
+.PageSearchTD input {
+	border: 0px;
+	font-size: 9pt;
+}
+.AdvanceSearch {
+	background-color: #EEEEEE;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+.AdvanceSearch td {
+	font-size: 9pt;
+	padding-left: 8px;
+	vertical-align: middle;
+}
+.AdvanceSearch input {
+	height: 20px;
+	border: 1px solid #CCCCCC;
+	font-size: 9pt;
+	width: 99%;
+}
+.TableFix{
+	table-layout:fixed;
+}
+.PageGridHeader td {
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	height: 20px;
+	background-image: url('/UI Standard/Images/TitleBg2.png');
+	border-collapse: collapse;
+}
+.PageGridHeader .Sort {
+	background-image: none;
+	background-color: #E5E5E5;
+	border-top: 1px solid #909090;
+	border-left: 1px solid #909090;
+	border-right: 1px solid #FFFFFF;
+}
+.TablePager select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #333333;
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	height: 14px;
+}
+.TablePager {
+	border-top: 1px solid #CCCCCC;
+	background-image: url('/UI Standard/Images/TitleBg.png');
+	height: 26px;
+}
+.DetailHeader {
+	border-bottom: 1px solid #CCCCCC;
+}
+.DetailTitle {
+	background-color: #FFFFFF;
+	font-size: large;
+	font-weight: bold;
+	padding: 5px;
+}
+.DetailTitle02 {
+	padding: 3px;
+	vertical-align: middle;
+}
+.MainMenu {
+	margin: 0px;
+	overflow: hidden;
+}
+.MainMenu .MenuListItem {
+	height: 23px;
+	background-image: url('/UI Standard/Images/MainMenuBG.jpg');
+	border-bottom: 1px solid #779AC0;
+	padding-left: 20px;
+	padding-top: 4px;
+	cursor: pointer;
+	color: #3D759B;
+	font-weight: bold;
+}
+.MainMenu .MenuListItemOver {
+	height: 23px;
+	background-image: url('/UI Standard/Images/MainMenuBGOver.png');
+	border-bottom: 1px solid #CCCCCC;
+	padding-left: 20px;
+	padding-top: 4px;
+	cursor: pointer;
+	color: #3D759B;
+	font-weight: bold;
+}
+.MainMenu .current2 {
+	height: 23px;
+	background-image: none;
+	background-color: #FFEFB2;
+	border-bottom: 1px solid #CCCCCC;
+	padding-left: 20px;
+	padding-top: 4px;
+	cursor: pointer;
+	color: #7F3C00;
+	font-weight: bold;
+}
+.MainMenu .Current2Over {
+	height: 23px;
+	background-image: none;
+	background-color: #FFEFB2;
+	border-bottom: 1px solid #CCCCCC;
+	padding-left: 20px;
+	padding-top: 4px;
+	cursor: pointer;
+	color: #3D759B;
+	font-weight: bold;
+}
+.MenuListBar {
+	height: 23px;
+	background-image: url('/UI Standard/Images/MainMenuBG.png');
+	border-bottom: 1px solid #CCCCCC;
+	padding-top: 4px;
+}
+.MenuBar {
+	height: 7px;
+	text-align: center;
+	background-image: url('/UI Standard/Images/menubar-scrollBG.png');
+	cursor: pointer;
+}
+.MenuBarTD {
+	padding: 4px 6px 4px 6px;
+}
+.SubMenuTitle {
+	height: 20px;
+	font-size: small;
+	vertical-align: middle;
+	background-image: url('/UI Standard/Images/TitleBg.png');
+	border-top: 1px solid #447EBE;
+	border-bottom: 1px solid #91C1D1;
+	padding-top: 5px;
+	padding-left: 10px;
+	color: #000000;
+}
+.SubMenu {
+	border-bottom: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+	overflow: auto;
+}
+.SubMenu a {
+	background-image:none;
+}
+.EditPageMenuBarWithBG {
+	height: 32px;
+	background-image: url('/UI Standard/Images/LargeMenuBg.png');
+	border: 1px solid #CCCCCC;
+	padding-top: 4px;
+	padding-left: 5px;
+	color: #000000;
+}
+.DetialMenuTable .MenuItem {
+	padding: 4px 6px 4px 6px;
+}
+.DetialMenuTable .MenuItemSplitter {
+	padding: 4px 6px 4px 10px;
+	border-left: 1px solid #CCCCCC;
+}
+.DetialMenuTable .MenuItem a, a:hover, .DetialMenuTable .MenuItemSplitter a, a:hover {
+	color: #5E6099;
+}
+
+.EditPageForm {
+	padding: 8px;
+	background-color: #EEEEEE;
+}
+.EditPageForm .FormTableMore {
+	border-top: 1px solid #cccccc;
+	margin: 4px 8px 4px 8px;
+	padding-top: 4px;
+	cursor: pointer;
+}
+.EditPageForm .FormTable td {
+	vertical-align: middle;
+	padding: 1px;
+}
+.EditPageForm .FormTable .FieldName {
+	width: 80px;
+	text-align: left;
+	padding-left: 8px;
+}
+.EditPageForm .FormTable .FieldName a, a:hover {
+	color: #3F52B8;
+}
+.EditPageForm .FormTable .FieldInput .InputLarge {
+	height: 20px;
+	width: 300px;
+	border: 1px solid #cccccc;
+}
+.EditPageForm .FormTable .FieldInput .InputSmall {
+	height: 20px;
+	width: 150px;
+	border: 1px solid #cccccc;
+}
+.EditPageForm .FormTable .FieldInput .InputReadOnly {
+	height: 20px;
+	width: 150px;
+	border: 1px solid #cccccc;
+	background-color:#FFFF99;
+}
+.EditPageForm .FormTable .FieldInput .TextArea {
+	width: 300px;
+	border: 1px solid #cccccc;
+}
+
+.EditPageForm .FormTable .FieldInput .InputDropdown {
+	height: 20px;
+	width: 150px;
+	border: 1px solid #cccccc;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.EditPageForm .FormTable .FieldInfo {
+	color: #FF8484;
+}
+.FormTree {
+	width: 100%;
+	heigth:500px;
+	background-color:white;
+	overflow:auto;
+}
+.FormTree .node_text {
+	font-size: 12px;
+	cursor: hand;
+	white-space:nowrap;
+}
+.FormTree .node_hover {
+	text-decoration: underline;
+}
+.FormTree .node_select span {
+	font-size: 12px;
+	cursor: hand;
+	color: white;
+	background-color: navy;
+	white-space:nowrap;
+}
+.FormTree .node_icon {
+}
+.TableCellSplitter{
+	background-color:white;
+	width:2px;
+	border-left:1px solid #cccccc;
+}
+.IndexMainMenu {
+	width: 188px;
+	border-left: 1px solid #447EBE;
+	border-right: 1px solid #447EBE;
+}
+
+.TextArea {
+	width: 100%;
+	border: 1px solid #cccccc;
+}
+.InputDropdown {
+	border: 1px solid #cccccc;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.TextBox{
+	border: 1px solid #cccccc;
+}
+
+#WebPartWPQ5
+{
+	padding-top:7px;
+	padding-left:2px;
+}
+.ms-listviewtable{
+	background-color:white;
+}
+.ms-viewheadertr{
+	display:none;
+}
+.ms-unselectedtitle{
+	display:none;
+}
+.ms-vb2{
+	overflow:hidden;
+	white-space:nowrap;
+}
+.ms-vb2 a,.ms-vb2 a:visited {
+	font-size: 9pt;
+	color: #326EAA;
+	text-decoration: none;
+}
+.ms-vb2 a:hover {
+	font-size: 9pt;
+	color: #326EAA;
+	text-decoration: underline;
+}
+/*#MSOTlPn_MainTD{
+	display:none;
+}
+.ms-HoverCellInActive{
+	display:none;
+}*/
+
+.Tabs03{
+	
+}
+.Tabs03 .bg{
+	background-color: white;
+	height: 34px;
+	vertical-align: bottom;
+}
+.Tabs03 .tabbg{
+	border-bottom: 1px solid #D7D7D7;
+}
+.Tabs03 .nor{
+	border: 1px solid #D7D7D7;
+	height: 24px;
+	background-image: url(../Img/tabs03nor.jpg);
+	background-repeat: repeat-x;
+	padding:3px 8px;
+	color: #2677A5;
+	font-size: 14px;
+	font-weight: bold;
+	width:90px;
+}
+.Tabs03 .norOver{
+	border: 1px solid #D7D7D7;
+	height: 24px;
+	background-image: url(../Img/tabs03cur.jpg);
+	background-repeat: repeat-x;
+	padding:3px 8px;
+	color: #2677A5;
+	font-size: 14px;
+	font-weight: bold;
+	width:90px;
+}
+.Tabs03 .cur,.Tabs03 .curOver{
+	border-top: 1px solid #D7D7D7;
+	border-left: 1px solid #D7D7D7;
+	border-right: 1px solid #D7D7D7;
+	height: 24px;
+	background-image: url(../Img/tabs03cur.jpg);
+	background-repeat: repeat-x;
+	padding:3px 8px;
+	color: #2677A5;
+	font-size: 14px;
+	font-weight: bold;
+	width:90px;	
+}
+
+.Botton01{ font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+color: #2D78A4; 
+height: 23px; 
+border: solid 1px #91C1DE; 
+background-color: #ffffff; 
+padding-top:3px; 
+padding-left:10px;
+padding-right:10px;
+background-image: url(../Img/botton-01.jpg) ;
+}
+
+.Botton02{ font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+color: #2D78A4; 
+height: 23px; 
+border: solid 1px #91C1DE; 
+background-color: #ffffff; 
+padding-top:3px; 
+padding-left:2px;
+padding-right:2px;
+background-image: url(../Img/botton-01.jpg) ;
+}
+
+
+.Floatleft{
+	float: left;
+}
+.Floatright{
+	float: right;
+}

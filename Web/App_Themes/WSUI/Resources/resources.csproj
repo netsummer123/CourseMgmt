@@ -1,0 +1,3261 @@
+<VisualStudioProject>
+    <CSHARP
+        ProjectType = "Web"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{B47BC68B-BE2E-49B4-BD96-6F173690D005}"
+        SccProjectName = "SAK"
+        SccLocalPath = "SAK"
+        SccAuxPath = "SAK"
+        SccProvider = "SAK"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = ""
+                AssemblyKeyContainerName = ""
+                AssemblyName = "resources"
+                AssemblyOriginatorKeyFile = ""
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "Library"
+                PreBuildEvent = ""
+                PostBuildEvent = ""
+                RootNamespace = "HongKou2"
+                RunPostBuildEvent = "OnBuildSuccess"
+                StartupObject = ""
+            >
+                <Config
+                    Name = "Debug"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "DEBUG;TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "true"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "false"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+                <Config
+                    Name = "Release"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "false"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "true"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                    HintPath = "..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "Style.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Blue\calendar.css"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\style.css"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\403-bottom.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\403-content.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\403-title.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\404-bottom.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\404-content.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\404-title.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\405-bottom.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\405-content.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\405-title.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\admin.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\admin2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\admin3.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\admin-bt.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\admin-bt2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\arrow.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\banner.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\bt.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\bt2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\data.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\data2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\data3.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\datatitle.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\data-title.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\data-title1.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\document-bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\document-title.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\footbg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\import.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\info.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\info2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\info3.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\info-title2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\liu.GIF"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\read.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\richen.GIF"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\sy.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\sy2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\sy3.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\TableFuncBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\TableHeadBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\title203.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\title-bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\title-bg2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\title-end.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\title-rt2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\title-rt3.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\topbg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\unread.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\unwork.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\WebSiteBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\websitebg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\admin\bottom.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\admin\content.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\admin\title.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\data\bottom.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\data\content.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\data\title.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\info\bottom.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\info\content.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Frame\info\title.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Icon\addbook.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Icon\favorites.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Icon\gohome.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Icon\gonext.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Icon\goprev.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Icon\import.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Icon\read.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Icon\sms.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Icon\temp.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Icon\transfer.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Icon\unread.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\Icon\WebSite.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\light\blue.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\light\gray.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\light\green.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\light\red.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\light\yellow.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\task\calbar.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\task\calbk.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\task\calfoot.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\task\caltitle.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\task\caltop1.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\task\caltop2.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Blue\task\caltop3.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\style.css"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Foot\BG.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Foot\help.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Foot\logout.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Foot\passchange.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Foot\Wicresoft.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\BG.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\BG1.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\Header.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\Icon_daiban.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\Icon_Expand.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\Icon_Home.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\Icon_IndexDot.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\Icon_Shirnk.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\LeftBar_BarBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\LeftBar_BarBgOver.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\LeftBar_BarBgOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\LeftBar_BarBgSelect.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\LeftBar_TitleBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\TableBG.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\TEXT.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Left\Top.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Main\BG.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Main\BGBottom.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Main\BGTop.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Main\Icon_daiban.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Main\RightPanel.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Top\BG.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Colorful\Frame\Top\TopBanner.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\treeStyle.css"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\dash.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\dashminus.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\dashplus.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\i.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\l.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\lminus.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\lplus.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\minus.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\noexpand.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\plus.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\r.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\rminus.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\rplus.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\t.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\Thumbs.db"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "componentart\lines\tminus.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\lines\tplus.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\admin_tools.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\cd.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\col.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\control_panel.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\desktop.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\dvd.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\entire_network.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\exp.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\floppy.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\folder.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\folder_docs.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\folder_fonts.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\folder_music.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\folder_open.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\folder_pictures.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\folder_shared.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\folder_tasks.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\folder_web.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\hard_drive.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\mycomp.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\mynet.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\net_connections.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\network_folder.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\network_node.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\printers.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\recycle.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\scanners.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\scheduled_tasks.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\spacer.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\Thumbs.db"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages\workgroup.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages_2\file.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages_2\folder.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages_2\folder_open.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\TreeViewImages_2\root.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\TreeView_Kernel.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\Menu_Kernel.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\Menu_Keyboard.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\Menu_Support.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\NavBar_Kernel.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\NavBar_Keyboard.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\NavBar_Support.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\Rotator.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\Snap_ALLalign.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\Snap_ALLcollapse.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\Snap_ALLcore.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\Snap_ALLdock.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\Snap_ALLdrag.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\Snap_ALLfloat.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\Snap_DLall.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\Snap_IEresize.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\Snap_NNresize.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\Ticker.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\TreeView_Kernel.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\TreeView_Keyboard.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\TreeView_Support.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_0_1983\utils.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573B188.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573C488.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573D588.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573E888.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573G788.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573G988.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573H888.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573I688.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573J988.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573K688.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573M488.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573O788.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573P288.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573P488.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573Q088.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573Q288.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573R188.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573R288.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573R388.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573S388.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573T388.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573U699.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573V588.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573W888.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573W988.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573X288.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573Z288.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "componentart\webui_client\2_1_2152\A573Z388.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\calendar.css"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\calendar2.css"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\style.css"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\button\AddBlog.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\button\back.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\button\Cancel.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\button\Export.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\button\Finish.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\button\Next.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\button\previous.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\button\Save.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\button\Submit.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\flash\knowledgeCatch.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\flash\knowledgeCover.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\flash\menu.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\flash\Preview.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\flash\static.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\flash\testproblem.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\flash\teststudent.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\flash\time.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\arrowbg1.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\CopyRightBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Detail_bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\face.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\FrameBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\spacer.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\TableBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\TableFuncBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\TableHeadBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Temp_photo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\temp1.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Temp2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\WebSiteBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\WebSiteBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Foot\CopyRight.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Foot\Forum.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Foot\help.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Foot\Info.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Foot\logout.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Foot\MyBlog.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Foot\Password.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Foot\Search.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Left\BarBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Left\BarBgOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Left\Bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Left\BottomPic.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Left\ContentBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Left\SubBar.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Left\SubBarOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Left\TitleBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Frame\Top\banner.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\bgcolor.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\bold.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\bold.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\borders.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\bullets.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\bullets.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\changecase.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\changecase.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\copy.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\copy.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\createlink.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\createlink.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\cut.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\cut.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\delete.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\delete.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\deletetablecolumn.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\deletetablecolumn.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\deletetablerow.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\deletetablerow.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\details.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\find.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\find.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\folder.big.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\folder.small.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\folder.up.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\fontbackcolorpicker.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\fontbackcolorpicker.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\fontforecolorpicker.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\fontforecolorpicker.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\help.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\help.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\indent.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\indent.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\insertdate.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\insertdate.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\insertemail.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\insertemail.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\insertimage.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\insertimage.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\insertimagefromgallery.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\insertimagefromgallery.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\insertrule.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\insertrule.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\inserttable.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\inserttable.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\inserttablecolumn.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\inserttablecolumn.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\inserttablerow.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\inserttablerow.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\inserttime.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\inserttime.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\italic.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\italic.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\justifycenter.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\justifycenter.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\justifyfull.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\justifyfull.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\justifyleft.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\justifyleft.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\justifyright.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\justifyright.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\mode.design.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\mode.html.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\numberedlist.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\numberedlist.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\outdent.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\outdent.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\paste.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\paste.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\print.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\print.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\redo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\redo.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\removeformat.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\removeformat.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\save.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\save.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\separator.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\spellcheck.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\spellcheck.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\strikethrough.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\strikethrough.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\subscript.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\subscript.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\superscript.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\superscript.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\toggleborders.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\toggledetails.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\toggledetails.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\toolbar.end.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\toolbar.start.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\underline.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\underline.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\undo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\undo.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\unlink.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\unlink.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\verse.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\verse.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\wordclean.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\wordclean.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\wordcount.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\FreeTextBox\wordcount.over.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Accept.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Add.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Approve.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Calendar.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Calendar.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Clock.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\comment.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Course.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Del.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\detail.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Dotted.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\download.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Edit.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\email.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Enter.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\favourite.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\FillBar.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\forward.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\help.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\History.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Index.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\IndexDot.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\NewCourse.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Next.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\offline.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Online.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Organize.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\previous.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Refuse.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Remove.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\setting.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Top.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Topic.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Upload.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\View.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\WebSite.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\0.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\ace.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\app.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\arj.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\asp.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\av.GIF"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\avi.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\bmp.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\cab.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\cad.GIF"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\ceb.GIF"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\chm.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\com.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\dll.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\dmv.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\doc.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\down.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\exe.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\ftp.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\gif.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\htm.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\html.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\img.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\info.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\jpeg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\jpg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\m3u.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\mdb.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\mid.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\mov.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\move.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\mp3.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\mpeg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\mpg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\pdf.GIF"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\pdg.GIF"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\png.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\ppt.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\ra.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\rar.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\rm.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\rmvb.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\sql.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\swf.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\tar.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\Thumbs.db"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\torrent.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\txt.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\url.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\wav.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\wave.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\wdl.GIF"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\wmv.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\xls.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\filetype\zip.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\legend\Blue.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\legend\deepBlue.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\legend\Gray.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\legend\White.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\legend\yellow.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Status\Abstance.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Status\finish.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Status\Late.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Status\leave.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Status\Locked.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Status\NotStart.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Status\online.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Status\Shared.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\Status\training.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\TreeView\Expand.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\TreeView\ExpandWhite.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\TreeView\Shrink.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\Icon\TreeView\ShrinkWhite.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\menu\01.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\menu\01.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\menu\02.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\menu\02.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\menu\03.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\menu\03.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\menu\04.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\menu\04.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\menu\05.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\menu\05.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\menu\06.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\menu\06.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\menu\07.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DefaultSkin\menu\07.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\-.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\+.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\Button_Submit.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\CopyRightBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\ExpandWhite.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\FootBar_CopyRight.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\FootBar_exit.PNG"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\FootBar_Forum.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\FootBar_help.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\FootBar_Info.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\FootBar_logout.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\FootBar_MyBlog.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\FootBar_Password.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\FootBar_Search.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\help.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\Icon_+White.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\Icon_IndexDot.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\Icon_MainTitle.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\Icon_WebSite.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\Icon_-White.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\LeftBar_BarBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\LeftBar_BarBgOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\LeftBar_Bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\LeftBar_BottomPic.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\LeftBar_ContentBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\LeftBar_SubBar.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\LeftBar_SubBarOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\LeftBar_TitleBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\legend_Blue.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\legend_deepBlue.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\legend_Gray.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\legend_White.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\legend_yellow.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\noPic.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\ShrinkWhite.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\spacer.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\spinner.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\TableBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\TableFuncBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\TableHeadBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\TableHeadBg_1.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\tempPic.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\TopBar_banner.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "images\WebSiteBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Platform.css"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\-.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\+.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\2004710143253580.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\arrowbg1.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Button_Down.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Button_DownOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Button_end.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Button_Left.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Button_LeftOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Button_More.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Button_MoreOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Button_pause.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Button_start.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Content_Pic1.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Content_Pic2.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Content_Pic3.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\ControlFootBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\ControlFootL.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\ControlFootR.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\ControlTopBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\ControlTopL.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\ControlTopR.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\ControlTopROver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\DisplayTopBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameFootBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameFootL.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameFootR.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameMainLbg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameMainRbg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameTitleBarBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameTitleBarL.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameTitleBarR.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameTopBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameTopExit.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameTopExitOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameTopL.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameTopMax.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameTopMaxOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameTopMin.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameTopMinOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameTopR.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameTopTitle.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\FrameTopTitle_TrainingClass.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Icon_+White.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Icon_Answer.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Icon_Course.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Icon_Edit.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Icon_IndexDot.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Icon_Modify.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Icon_people.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Icon_Researcher.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Icon_Resourse.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Icon_StudentF.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Icon_StudentM.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Icon_Teacher.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Icon_View.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Icon_-White.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\knowledgeCatch.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\knowledgeCover.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\laonianruntu.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\legend_Blue.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\legend_deepBlue.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\legend_Gray.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\legend_White.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\legend_yellow.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\MainBarBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\MainBarL.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\MainBarR.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\MainFootBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\MainFootL.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\MainFootR.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\MainLeftBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\MainRightBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\MainTopBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\MainTopL.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\MainTopR.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Pic0.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Picture1.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Preview.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Preview_pic1.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Preview_pic2.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Preview_pic3.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Preview_pic4.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Preview_pic5.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\snrt02.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Spacer.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Status_Activity.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Status_Finish.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\SubTagBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\SubTagBgActive.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\TableHeadBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\TagBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\TagBGActive.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Temp.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\images\Thumbs.db"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Platform\images\time.swf"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\arrowbg1.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\CopyRightBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\Detail_bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\face.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\FrameBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\LeftBar_BarBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\LeftBar_BarBgOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\LeftBar_Bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\LeftBar_BottomPic.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\LeftBar_ContentBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\LeftBar_SubBar.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\LeftBar_SubBarOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\LeftBar_TitleBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\spacer.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\TableBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\TableFuncBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\TableHeadBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\Temp_photo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\temp1.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\Temp2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\Thumbs.db"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Platform\Skin1\TopBar_banner.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\WebSiteBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Platform\Skin1\WebSiteBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\calendar.css"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\style.css"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\admin2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\admin3.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\back.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\banner-lf.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\calender.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\data2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\data3.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\footer.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\forward.GIF"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\info2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\info3.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\infor_bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\infor_end.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\infor_title.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\left_bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\main.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\main_title.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\main_title2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\main_title3.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\notice.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\structor.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\sy2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\sy3.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\topbar.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\unwork_bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\admin\admin-content.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\admin\admin-nav1.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\admin\admin-title.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\admin\back.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\admin\bottom.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\admin\bt.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\admin\bt2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\admin\footer.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\admin\forward.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\admin\main.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\admin\subtitle.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\admin\top_bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\data\back.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\data\bottom.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\data\bt.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\data\bt2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\data\data-content.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\data\data-nav1.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\data\data-title.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\data\footer.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\data\forward.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\data\main.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\data\subtitle.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\data\top_bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\info\back.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\info\bottom.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\info\bt.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\info\bt2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\info\footer.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\info\forward.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\info\info-content.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\info\info-title.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\info\main.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\info\subtitle.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\Frame\info\top_bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\task\calbar.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\task\calbk.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\task\caltitle.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\task\caltop1.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\task\caltop2.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Rice\task\caltop3.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Scripts\calendar.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Scripts\calendar2.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Scripts\ColumnOperation.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Scripts\function.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Scripts\help.xml"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Scripts\RichEdit.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Scripts\showtip.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\CSSPreview.htm"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\default.htm"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Detail.htm"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\FootBar.htm"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\left.htm"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Template.htm"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\TopBar.htm"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\CSS\calendar2.js"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\CSS\css.css"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\-.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\+.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\Button_Submit.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\CopyRightBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\ExpandWhite.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\FootBar_CopyRight.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\FootBar_exit.PNG"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\FootBar_Forum.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\FootBar_help.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\FootBar_Info.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\FootBar_logout.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\FootBar_MyBlog.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\FootBar_Password.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\FootBar_Search.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\help.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\Icon_+White.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\Icon_IndexDot.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\Icon_WebSite.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\Icon_-White.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\LeftBar_BarBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\LeftBar_BarBgOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\LeftBar_Bg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\LeftBar_BottomPic.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\LeftBar_ContentBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\LeftBar_SubBar.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\LeftBar_SubBarOver.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\LeftBar_TitleBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\legend_Blue.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\legend_deepBlue.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\legend_Gray.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\legend_White.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\legend_yellow.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\noPic.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\ShrinkWhite.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\spacer.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\TableBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\TableFuncBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\TableHeadBg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\tempPic.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\TopBar_banner.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Images\WebSiteBg.png"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Template\Script\function.js"
+                    BuildAction = "Content"
+                />
+            </Include>
+        </Files>
+    </CSHARP>
+</VisualStudioProject>
+

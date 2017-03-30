@@ -1,0 +1,96 @@
+.MenuArea
+{
+  background-color:#E3EFFD;
+  padding: 0px;
+  background:url(../images/menu/MainNavBg2.jpg);
+  height: 31px;
+  color: White;
+}
+.MenuArea a{
+	color: White;
+}
+.TopGroup
+{
+  cursor:default; 
+  background: transparent;
+}
+
+.MenuGroupRight
+{
+  background-image:url(../images/menu/group_background_right.gif);
+  background-color:white;
+  border:solid 1px #7E7E81; 
+  cursor:default; 
+}
+
+.MenuGroup
+{
+  background-image:url(../images/menu/group_background.gif);
+  background-color:white;
+  border:solid 1px #7E7E81; 
+  cursor:default; 
+  color: Black;
+}
+.MenuGroup tr td{
+	color:  Black;
+}
+
+.TopMenuItem
+{
+  background-color:#E3EFFD; 
+  color:black; 
+  font-family:tahoma; 
+  font-size:11px; 
+  border:solid 1px #E3EFFD; 
+  cursor:default; 
+}
+
+.TopMenuItemHover 
+{
+  background-image:url(../images/menu/top_group_background.gif);
+  background-color:#E5E6EF; 
+  color:black; 
+  font-family:tahoma; 
+  font-size:11px; 
+  border:solid 1px #AB5000; 
+  cursor:default; 
+}
+
+.MenuItem
+{
+  color:black; 
+  font-family:tahoma; 
+  font-size:12px; 
+  margin:1px; 
+  cursor:default; 
+}
+
+.MenuItem_Main
+{
+  color:white; 
+  font-family:tahoma; 
+  font-size:12px; 
+  margin:1px; 
+  cursor:default; 
+}
+
+.MenuItemHover 
+{
+  background-color:#FFEEC2; 
+  color:black; 
+  font-family:tahoma; 
+  font-size:11px; 
+  border:solid 1px #4B4B6F; 
+  cursor:default; 
+}
+
+.MenuBreak
+{
+  background-image:url(../images/menu/break_bg.gif);
+  width:100%;
+  height:1px;
+}
+
+.TemplatedItem
+{
+}

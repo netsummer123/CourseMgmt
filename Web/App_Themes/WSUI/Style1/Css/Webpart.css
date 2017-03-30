@@ -1,0 +1,164 @@
+/*  PortalWebpart  */
+
+.PortalWebPart {
+	border: 1px solid #447EBE;
+	width: 99%;
+	margin: 2px;
+	color: #072F60;
+	background-color: #ffffff;
+}
+.PortalWebPart .TitleBar {
+	font-size: 9pt;
+	padding: 4px;
+	border-bottom: 1px solid #447EBE;
+	height: 13px;
+	background-image: url(../Img/Webpartbg.jpg);
+}
+.PortalWebPart .TitleBar table td{
+	color: #073163;
+}
+.PortalWebPart .TitleBar a {
+	font-size: 9pt;
+	color: #326EAA;
+	text-decoration: none;
+}
+.PortalWebPart .TitleBar a:hover {
+	font-size: 9pt;
+	color: #326EAA;
+	text-decoration: underline;
+}
+.PortalWebPart .TitleBar td {
+	padding-right: 5px;
+	font-size: 9pt;
+}
+.PortalWebPart .Content {
+}
+.PortalWebPart .Content td {
+	font-size: small;
+	padding: 4px;
+	height:18px;
+}
+.PortalWebPart .Content .Unread {
+	list-style-image: url(../Img/DotUnread.jpg);
+	list-style-position: outside;
+}
+.PortalWebPart .Content .Unread td a {
+	font-size: small;
+	color: #0B62AF;
+	text-decoration: none;
+}
+.PortalWebPart .Content .Unread td a:hover {
+	font-size: small;
+	color: #0B62AF;
+	text-decoration: underline;
+}
+.PortalWebPart .Content .Unread td a img {
+	border: none;
+}
+.PortalWebPart .Content .Unread .Date {
+	width: 60px;
+	color: #3170A6;
+	float: right;
+	text-align: left;
+	overflow: hidden;
+	height: 10px;
+	vertical-align:middle;
+}
+.PortalWebPart .Content .RSSTitle {
+	height: 15px;
+	overflow: hidden;
+}
+.PortalWebPart .Content .Readed td a {
+	font-size: small;
+	color: #88B3EA;
+	text-decoration: none;
+}
+.PortalWebPart .Content .Readed td a:hover {
+	font-size: small;
+	color: #88B3EA;
+	text-decoration: underline;
+}
+.PortalWebPart .Content .Readed td a img {
+	border: none;
+}
+.PortalWebPart .Content .Readed .Date {
+	width: 60px;
+	color: #959595;
+	float: right;
+	text-align: left;
+	overflow: hidden;
+	height: 10px;
+	vertical-align:middle;
+}
+
+
+.MarginPart {
+	margin-top: 7px;
+}
+
+/*  人员信息卡片  */
+.peoplecard{
+	border-collapse: collapse; background-color:white;
+	width:280px;
+	height:100px;
+	border: 1px solid #447EBE;
+	padding: 10px;
+	background: white url(../Img/peoplecardbg.jpg) top repeat-x;
+}
+.peoplecard .peoplephoto{
+   float: left;
+	border: 2px solid #81B1D4;
+}
+.peoplecard .peopleinfo{
+	float:left;
+	margin:0px 2px 0px 10px;
+	color: #0D4177;	
+	line-height: 22px;
+
+}
+.peoplecard .peopleinfo div{
+	color: #0D4177;	
+}
+.peoplecard .peopleinfo div a{
+	color: #0B59B0;	
+}
+.peoplecard .peopleinfo div a:hover{
+	color: #FFFFFF;	
+	background-color: #2964A5;
+}
+.peoplecard .peopleinfo .name{
+   float: left;
+	font-size: 16px;
+	font-weight: bold;
+	color: #0D4177;	
+	height: 30px;
+	margin-right:10px; 
+}
+.peoplecard .peopleinfo .other{
+   clear:left;
+	color: #0D4177;	
+	height: 18px;
+	width:180px;
+	line-height: 18px;
+	padding-left:4px;
+	margin-bottom:4px;
+}
+.peoplecard .peopleinfo .online{
+   float: left;
+	color: #05962B;	
+	height: 22px;
+	margin-right:5px; 
+}
+.peoplecard .peopleinfo .offline{
+   float: left;
+	color: #9C9C9C;	
+	height: 22px;
+	margin-right:5px; 
+}
+.peoplecard .peopleinfo .contact{
+   clear: left;
+	color: #0D4177;	
+	height: 20px;
+	padding: 4px;
+   cursor: pointer;
+}

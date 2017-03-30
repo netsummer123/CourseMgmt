@@ -1,0 +1,166 @@
+.InfolistA{
+  float:left;
+}
+.InfolistA ul{
+  list-style: none;
+  float: left;
+  padding:4px 2px;
+  height: inherit;
+}
+.InfolistA ul li{
+  background: url(../Img/Listimage01.gif) no-repeat 0px 4px;
+  padding-left:15px;
+  line-height:20px;
+  float: left;
+  white-space: nowrap;
+  clear: left;
+  overflow: hidden;
+ text-overflow: ellipsis;
+ -o-text-overflow: ellipsis;
+ width: 200px;
+}
+.InfolistA ul li a{
+	color: #000000;
+}
+.InfolistA ul li a:hover{
+	text-decoration: underline;
+}
+.InfolistA .More{
+   clear:both;
+	color: #444444;
+	float: left;
+	height: 22px;
+	white-space: nowrap;
+	text-align: right;
+}
+.InfolistA .Floatleft{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+  width: 200px;
+}
+
+.InfolistA .Date{
+	color: #CD6500;
+}
+
+
+.InfolistA2{
+	float:left;
+}
+.InfolistA2 ul{
+	list-style: none;
+	float: left;
+	padding:4px 2px;
+	height: inherit;
+}
+.InfolistA2 ul li{
+	background: url(../Img/Listimage01.gif) no-repeat 0px 4px;
+	padding:5px 0;
+	padding-left:15px;
+	line-height:14px;
+	float: left;
+	clear: left;
+	width: 160px;
+}
+.InfolistA2 ul li a{
+	color: #000000;
+	float:left;
+	clear:left;
+}
+.InfolistA2 ul li a:hover{
+	text-decoration: underline;
+}
+.InfolistA2 span{
+	color: #444444;
+	white-space: nowrap;
+	padding-left:10px;
+	font-size:10px;
+	float:right;
+	color:#ABABAB;
+	width:30px;
+
+}
+
+
+.InfolistA4{
+	float:left;
+}
+.InfolistA4 ul{
+	list-style: none;
+	float: left;
+	padding:4px 2px;
+	height: inherit;
+}
+.InfolistA4 ul li{
+
+	padding-left:0	px;
+	line-height:14px;
+	float: left;
+	clear: left;
+	width: 250px;
+}
+.InfolistA4 ul li a{
+	color: #000000;
+	float:left;
+	white-space: nowrap;
+	clear: left;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+}
+.InfolistA4 ul li a:hover{
+	text-decoration: underline;
+}
+.InfolistA4 span{
+	color: #444444;
+	height: 20px;
+	white-space: nowrap;
+	padding-left:10px;
+	font-size:10px;
+	color:#ABABAB;
+	float:right;
+	width:40px;
+}
+
+
+.InfolistA3{
+	float:left;
+}
+.InfolistA3 ul{
+	list-style: none;
+	float: left;
+	padding:4px 2px;
+	height: inherit;
+}
+.InfolistA3 ul li{
+	background: url(../Img/Listimage01.gif) no-repeat 0px 4px;
+	padding-left:15px;
+	line-height:14px;
+	float: left;
+	clear: left;
+	width: 250px;
+}
+.InfolistA3 ul li a{
+	color: #000000;
+	float:left;
+	white-space: nowrap;
+	clear: left;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+}
+.InfolistA3 ul li a:hover{
+	text-decoration: underline;
+}
+.InfolistA3 span{
+	color: #444444;
+	height: 20px;
+	white-space: nowrap;
+	padding-left:10px;
+	font-size:10px;
+	color:#ABABAB;
+	float:right;
+	width:40px;
+}

@@ -1,0 +1,372 @@
+@import url('Basic.css');
+@import url('Htmls.css');
+@import url('Layout.css');
+@import url('Fonts.css');
+@import url('Webpart.css');
+@import url('Table.css');
+@import url('Form.css');
+@import url('Tabber.css');
+@import url('Article.css');
+@import url('Print.css');
+@import url('Box.css');
+@import url('Top.css');
+@import url('Calendar2.css');
+@import url('Menu.css');
+@import url('Ms.css');
+
+
+
+
+.PageTitleTable {
+	background-image: url('../Img/TitleBg.jpg');
+	border-bottom: 1px solid #447EBE;
+	padding: 2px 3px 2px 10px;
+	height:25px;
+}
+.PageTitle {
+	color: white;
+	font-size: 13px;
+   font-weight: bold;
+}
+.PageDescription {
+	color: #0049A0;
+	padding-left: 5px;
+}
+
+
+
+.PageToolBar {
+	padding: 2px;
+	border-bottom: 1px solid #CCCCCC;
+	background:#f3f3f3 url(../Img/Pagetoolbarbg.jpg) repeat-x -4px;
+}
+.PageToolBarItem{
+	margin-right:2px;
+}
+.PageToolBarItem td {
+	padding: 0px 2px 0px 2px;
+	vertical-align: middle;
+	border-right: 1px solid #CCCCCC;
+	/*color: #2A2A2A;*/
+	color: #000000;
+	white-space: nowrap;
+}
+.PageToolBarItem a, .PageToolBarItem tr td a{
+	/*color: #2A2A2A;*/
+	color: #000000;
+	padding: 2px 4px 2px 3px;
+	height: 22px;
+}
+.PageToolBarItem a:hover ,.PageToolBarItem tr td a:hover {
+	/*color: #2A2A2A;*/
+	color: #000000;
+	padding: 1px 3px 1px 2px;
+	border:1px solid #86C3F2;
+	background-color: #BADDF8;
+	height:22px
+}
+
+
+.PageSearch {
+	border-bottom: 1px solid #CCCCCC;
+	background: url(../Img/Pagesearchbg.jpg) repeat-x -4px;
+	vertical-align: middle;
+	padding:2px;
+}
+.PageSearchTD {
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+	padding: 1px 0px 0px 0px;
+}
+.PageSearchTD input {
+	border: none;
+	font-size: 9pt;
+	color:#4B4B4B;
+}
+.PageSearchTD select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	background-color: #FFFFFF;
+}
+.AdvanceSearch {
+	background-color: #EEEEEE;
+	padding-left: 4px;
+	padding-right: 4px;
+	border-bottom: 1px solid #cccccc;
+}
+.AdvanceSearch td {
+	font-size: 9pt;
+	padding-left: 8px;
+	vertical-align: middle;
+}
+.AdvanceSearch input {
+	height: 20px;
+	border: 1px solid #CCCCCC;
+	font-size: 9pt;
+	width: 99%;
+}
+.AdvanceSearch select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+}
+
+
+
+
+.PageGridHeader td {
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	height: 20px;
+	background-image: url('../Img/TitleBg2.png');
+	border-collapse: collapse;
+}
+.PageGridHeader .Sort {
+	background-image: none;
+	background-color: #E5E5E5;
+	border-top: 1px solid #909090;
+	border-left: 1px solid #909090;
+	border-right: 1px solid #FFFFFF;
+}
+.TablePager select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #0049A0;
+	background-color: #FFFFFF;
+	border: 1px solid #447EBE;
+	height: 14px;
+}
+.TablePager {
+	border-top: 1px solid #6E8EA9;
+   background: #E9F0F6;
+	height: 26px;
+}
+.TablePager tr td,.TablePager tr td a{
+	color: #073163;
+}
+.TablePager .Pageword{
+	color: #073163;
+}
+.TablePager .Pagenum{
+	color:#BC6600;
+}
+
+.DetailHeader {
+	border-bottom: 1px solid #CCCCCC;
+}
+.DetailTitle {
+	background-color: #FFF8BA;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 4px;
+	color: #000000;
+	border-bottom: 1px solid #CCCCCC;
+}
+.DetailTitle02 {
+	padding: 3px;
+	vertical-align: middle;
+	background-color: #FBFBFB;
+	border-bottom: 1px solid #CCCCCC;
+}
+.SendPeople{
+  /* color: #373737;*/
+	color: #000000;
+}
+.ReceivePeople{
+  /* color: #373737;*/
+	color: #000000;
+}
+.SendTime{
+  /* color: #373737;*/
+	color: #000000;
+}
+.MainMenu {
+	margin: 0px;
+	overflow: hidden;
+}
+.MainMenu .MenuListItem {
+	height: 23px;
+	background-image: url('../Img/MainMenuBG.jpg');
+	border-bottom: 1px solid #779AC0;
+	padding-left: 6px;
+	padding-top: 4px;
+	cursor: pointer;
+	color: #1865A0;
+	font-weight: bold;
+	white-space: nowrap;
+}
+.MainMenu .MenuListItemOver {
+	height: 23px;
+	background-image: url('../Img/MainMenuBGOver.jpg');
+	border-bottom: 1px solid #779AC0;
+	padding-left: 6px;
+	padding-top: 4px;
+	cursor: pointer;
+	color: #703E03;
+	font-weight: bold;
+	white-space: nowrap;
+}
+.MainMenu .current2 {
+	height: 23px;
+	background-image: none;
+	background-color: #FFEFB2;
+	border-bottom: 1px solid #CCCCCC;
+	padding-left: 6px;
+	padding-top: 4px;
+	cursor: pointer;
+	color: #7F3C00;
+	font-weight: bold;
+	white-space: nowrap;
+}
+.MainMenu .Current2Over {
+	height: 23px;
+	background-image: none;
+	background-color: #FFEFB2;
+	border-bottom: 1px solid #CCCCCC;
+	padding-left: 6px;
+	padding-top: 4px;
+	cursor: pointer;
+	color: #3D759B;
+	font-weight: bold;
+	white-space: nowrap;
+}
+.MenuListBar {
+	height: 27px;
+	background:#C1EAFF url('../Img/MainMenuBG.jpg') repeat-x;
+	padding-left:4px;
+}
+.MenuListBar .MenuListItem {
+	height: 28px;
+	cursor: pointer;
+	padding:0px 5px;
+}
+.MenuListBar .MenuListItemOver {
+	height: 28px;
+	background-image: url('../Img/MainMenuBGOver.jpg');
+	cursor: pointer;
+	padding:0px 5px;
+}
+.MenuBar {
+	height: 7px;
+	text-align: center;
+	background: url('../Img/menubar-scrollBG.png') no-repeat;
+   background-position: center;
+	cursor: pointer;
+	border-bottom: 1px solid #779AC0;
+}
+.MenuBardown {
+	height: 7px;
+	text-align: center;
+	background: url('../Img/menubar-scrolldown.png') no-repeat;
+   background-position: center;
+	cursor: pointer;
+	border-bottom: 1px solid #779AC0;
+}
+.MenuBarup {
+	height: 7px;
+	text-align: center;
+	background: url('../Img/menubar-scrollup.png') no-repeat;
+   background-position: center;
+	cursor: pointer;
+	border-bottom: 1px solid #779AC0;
+}
+.MenuBarTD {
+	padding: 4px 6px 4px 6px;
+}
+.SubMenuTitle {
+	height: 20px;
+	font-size: small;
+	vertical-align: middle;
+	background-image: url('../Img/TitleBg.png');
+	border-top: 1px solid #447EBE;
+	border-bottom: 1px solid #91C1D1;
+	padding-top: 5px;
+	padding-left: 10px;
+	color: #000000;
+}
+.SubMenu {
+	border-bottom: 1px solid #447EBE;
+	background-color: #FFFFFF;
+	overflow: auto;
+}
+.SubMenu a {
+	background-image:none;
+	color: #000000;
+}
+.EditPageMenuBarWithBG {
+	height: 32px;
+	background-image: url('../Img/LargeMenuBg.png');
+	border: 1px solid #CCCCCC;
+	padding-top: 4px;
+	padding-left: 5px;
+	color: #000000;
+}
+.DetialMenuTable .MenuItem {
+	padding: 4px 6px 4px 6px;
+}
+.DetialMenuTable .MenuItemSplitter {
+	padding: 4px 6px 4px 10px;
+	border-left: 1px solid #CCCCCC;
+}
+.DetialMenuTable .MenuItem a, a:hover, .DetialMenuTable .MenuItemSplitter a, a:hover {
+	color: #5E6099;
+}
+
+
+.FormTree {
+	width: 100%;
+	background-color:white;
+	overflow:auto;
+}
+.FormTree .node_text {
+	font-size: 12px;
+	cursor: hand;
+	white-space:nowrap;
+}
+.FormTree .node_hover {
+	text-decoration: underline;
+}
+.FormTree .node_select span {
+	font-size: 12px;
+	cursor: hand;
+	color: white;
+	background-color: navy;
+	white-space:nowrap;
+}
+.FormTree .node_icon {
+}
+.TableCellSplitter{
+	background-color:white;
+	width:2px;
+	border-left:1px solid #cccccc;
+}
+.IndexMainMenu {
+	width: 188px;
+	border-left: 1px solid #447EBE;
+	border-right: 1px solid #447EBE;
+}
+
+#WebPartWPQ5
+{
+	padding-top:7px;
+	padding-left:2px;
+}
+
+/*#MSOTlPn_MainTD{
+	display:none;
+}
+.ms-HoverCellInActive{
+	display:none;
+}*/
+
+
+.contentbox
+{
+	padding: 0px 4px 0px 6px;
+}
+
+.content
+{
+	padding: 8px;
+}
+
+

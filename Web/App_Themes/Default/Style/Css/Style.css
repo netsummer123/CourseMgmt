@@ -1,0 +1,364 @@
+.MainBody{
+	width: 100%;
+	margin: 0 auto;
+	border-left: 1px solid #a8bed9;
+	border-right: 1px solid #a8bed9;
+}
+.Footer{
+	width: 100%;
+	height: 30px;
+   line-height:30px;
+	background:#75A1D8 url(../Img/Footer.jpg) no-repeat center bottom;
+	margin: 0px auto;
+	text-align: center;
+	color: #145DBA;
+	border-top: 1px solid #75A1D8;
+}
+.Bodytop{
+	width: 100%;
+	height: 84px;
+	background: url(../Img/bannerbg.jpg) repeat-x bottom;
+}
+.BannerLeft{
+	float: left;height: 84px; text-align: right;
+}
+.Logo{ 
+  float: left;  
+  width: 175px;
+  height: 76px;
+  overflow:hidden;
+  padding: 0px;
+}
+.MainNavE{
+	float: left; width: auto;
+}
+.UserInfo{
+	float: left; 
+	width:100%;
+	height: 35px;
+   line-height: 34px; 
+}
+.UserInfo a{
+	color: #145DBA;
+}
+.UserInfo a:hover{
+	text-decoration: underline;
+}
+
+.BannerRight{
+	float: right;
+	height: 84px;
+}
+.BannerRight .InfoAlert{
+	float: right; padding-right: 20px;
+	line-height: 30px;
+	color: #0F5FB9;
+	white-space: nowrap;
+}
+
+.BannerRight .InfoAlert a{
+	color: red; 
+}
+.BannerRight .InfoAlert ul li a:hover{
+	text-decoration: underline;
+}
+
+.BodyLeft{	
+	background:#b4ccea url(../Img/LeftBg.jpg) repeat-y;
+}
+.BodyFull{	
+	background:#DAE6F5;
+}
+
+.Left{
+	width: 111px;
+	float: left;
+}
+.Center{
+   background:#b4ccea url(../Img/CenterBg.jpg) repeat-x;
+	width:100%;
+}
+.Center .Tab_List01{
+	margin-left: 10px;
+}
+.Center02{
+	width: 100%;
+   background:#b4ccea url(../Img/CenterBg.jpg) repeat-x;
+	float: left;
+}
+.WindowsOpen{
+   margin: auto;
+}
+.WindowsColor{
+	background: #b4ccea;
+	width: 100%;
+}
+.Right{
+	width:18px;
+	position:absolute;
+	top:0px;
+	right:0;
+	background: url(../Img/CenterBg.jpg) repeat-x top;
+}
+
+.LeftNavTop{
+	float: left;  width: 111px; height: 11px; overflow:hidden;background: url(../Img/LeftBgtop.jpg) no-repeat top;
+}
+
+.LeftNav{
+	float:left;
+	padding-left:9px;
+}
+.LeftNav ul li a{
+	display: block;
+	width: 83px;
+	height: 29px;
+	background: url(../Img/LeftNav-N.jpg) no-repeat;
+	margin-bottom: 6px;
+	color: #214f98;
+	padding-right:19px;
+	line-height: 29px;
+	text-align: right;
+
+}
+.LeftNav .Cur a,.LeftNav ul li a:hover{
+	background: url(../Img/LeftNav-C.jpg);
+	color: Black;
+}
+.LeftNav ul li a:focus
+{
+    outline:0;
+}
+
+
+/*   */
+
+.MainNavE .MainMenu{
+   float: left;
+	width: 100%;
+	height: 49px;
+	overflow:hidden; 
+	padding: 0px; margin: 0px;
+}
+.MainNavE .MainMenu ul li{
+	float: left;
+	width: 89px; 
+	height: 49px; 
+	margin-right: 6px;_margin-right: 3px;
+}
+
+.MainMenu{
+	float:left;
+	width: 100%;
+	height: 49px;
+	overflow:hidden; 
+	padding: 0px; margin: 0px;
+	padding-top: 11px;
+	padding-left:9px;
+}
+.MainMenu ul li{	 float:left;}
+
+.MainMenu ul li a{ 
+	display: block;
+	width: 89px;
+	height: 49px;
+	background: url(../Img/Menu-N.jpg) no-repeat;
+	color: #214f98;
+	font-family:Î¢ÈíÑÅºÚ;  font-size: 15px; text-align: center; line-height: 44px; 
+
+}
+
+.MainMenu .MainMenuCur a,.MainMenu ul li a:hover{
+	background: url(../Img/Menu-C.jpg);
+	font-family:Î¢ÈíÑÅºÚ;  color: White;
+}
+.MainMenu ul li a:visited {
+	font-family:Î¢ÈíÑÅºÚ;  color: #214f98;
+}
+.MainMenu ul li a:focus{    outline:0;}
+
+
+
+.MainTabDiv{
+	float: left;
+	margin-bottom: 10px;
+	position: relative;
+	width:32px;
+	overflow: hidden;
+	clear: none;
+}
+.MainTabDiv ul li{	 float:left;	 margin-bottom: 6px;}
+
+.MainTabDiv ul li a{ 
+	display: block;
+	font-family:Î¢ÈíÑÅºÚ;  font-size: 12px; color: #0C4690;
+	width: 20px;
+	padding: 4px 6px;
+	text-align: center; line-height: 16px;
+   background: #E4F0FF;
+	overflow: hidden;
+	border: 1px solid #ADD2FF;
+}
+.MainTabDiv .Cur a,.MainTabDiv ul li a:hover,.MainTabDiv .Cur a:visited,.MainTabDiv .Cur a:link,.Tab_List01 .MainTabDiv ul li a:hover
+{	
+background: url(../Img/MainTabDiv-C.gif) repeat-y;
+font-family:Î¢ÈíÑÅºÚ; 
+color: White;
+}
+.MainTabDiv ul li a:visited{
+	color: #0C4690;
+}
+.MainTabDiv ul li a:focus{    outline:0;}
+
+
+.MainTabDiv .MainTabBottom{
+	overflow: hidden;
+	width: 32px;
+	text-align: center;
+	background:#FEEBC3  url(../Img/MaintabBottom_C.gif) repeat-y left; 
+	border: 1px solid #C38A15; 	
+	border-right: none; 	
+	margin-bottom: 6px;
+	position: absolute;
+	bottom:0;
+	left:0;
+	padding: 5px 0px;
+}
+.MainTabBottom a{
+	display: block;
+	font-family:Î¢ÈíÑÅºÚ; 
+	width: 20px;
+	font-size: 12px; 
+	padding: 6px;
+	color: #000000;
+}
+.MainTabBottom a:hover{	display: block;	color: #000000;
+   background:#FEEBC3  url(../Img/MaintabBottom_N.gif) repeat-y left;  }
+
+.MainTabBottom a:visited{
+	color: #000000;
+}
+
+/*   */
+.Right14{
+	margin-left: 14px;_margin-left: 7px;
+	position: relative;
+	float: left;
+	overflow: hidden;
+
+}
+.AdminTabLine{
+	float: left;
+	border: 1px solid #B5CCDC; 	
+}
+.AdminMenu{
+	float:left;
+	width:80%;
+	height: 28px;
+	position: relative;
+	top: 5px;
+	left: 24px;
+}
+.AdminMenu ul li{	 
+	float:left;margin-right: 4px;
+}
+.AdminMenu ul li a{ 
+	display: block;
+	width:114px;
+	height: 24px;
+	color: #214f98;
+	background: url(../Img/AdminMenu-N.gif) no-repeat;
+	font-family:Î¢ÈíÑÅºÚ; font-size: 12px; text-align: center; line-height: 24px; 
+}
+.AdminMenu .AdminMenuCur a{
+background:White url(../Img/AdminMenu-C.gif) no-repeat;
+	font-family:Î¢ÈíÑÅºÚ; color: #000000;
+}
+.AdminMenu ul li a:hover{
+	background:White url(../Img/AdminMenu-C.gif) no-repeat;
+	font-family:Î¢ÈíÑÅºÚ;  color: #000000;
+}
+.AdminMenu ul li a:visited{
+	color: #214f98;
+}
+.AdminMenu ul li a:focus{    outline:0;}
+
+
+.AdminClient{
+	width: 96%; margin: 0px auto; 
+	line-height:50px;
+}
+.AdminClient .Title{
+	width: 300px;
+	float: left;
+	color: Blue; 
+	padding-left: 2px;
+	line-height: 28px;
+	text-align: left;
+	padding-top: 20px;
+}
+.AdminClient .RightBtn{
+	float: right;
+}
+
+.CenterHeight01{
+	overflow: auto;
+	clear: both;
+	float: left;
+	width: 98%;
+	margin-top: 10px;
+	overflow-x:hidden;
+}
+.UserSetArea{
+   background: #ffe743;
+	padding: 4px;
+}
+.LoginBody{
+	background: url(../Img/LoginWebBg.jpg) repeat-x;
+	overflow: hidden;
+}
+.LoginPart{
+	background: url(../Img/LoginBg.jpg) no-repeat;
+	width:1022px;
+	height: 716px;
+	margin: 0 auto;
+	position: relative;
+}
+.LoginPart .TB01{
+	position: absolute;
+	left: 460px;
+	top:376px;
+}
+.LoginPart .TextBox01{
+	width:185px;
+	height: 22px;
+	line-height: 20px;
+	font-size: 14px;
+	border: none;
+	background: transparent;
+	color: #0c3d7b;
+}
+.LoginPart .TB02{
+	position: absolute;
+	left: 460px;
+	top:417px;
+}
+.LoginPart .Alert{
+	position: absolute;
+	left: 460px;
+	top:460px;
+	color: #e24000;
+	font-family: ËÎÌå;	
+}
+.LoginPart .BtnImg{
+   position: absolute;
+	left:665px;
+	top:374px;
+	width: 62px;
+	height: 71px;
+}
+.LoginPart .BtnImg a img{
+	width: 62px;
+	height: 71px;
+	
+}

@@ -1,0 +1,36 @@
+﻿.Btn2 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; color: white; height: 18px; border: solid 1px; background-color: #999; padding-top:1px; outline: solid 1px black; }
+.text-001{ color: #5c5c5c; line-height: 18px;  letter-spacing: 2px; }
+.text-003{ color: #5c5c5c; line-height: 14px;  letter-spacing: 0px; }
+.text-002{ font-size: 14px; color: #5c5c5c; line-height: 18px; letter-spacing: 1px; }
+
+.Textbox01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #333333;
+	background-color: #FFFCF9;
+	border: 1px solid #9C9491;
+	height: 18px;
+}
+.select01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #333333;
+	background-color: #FFFCF9;
+	border: 1px solid #CCCCCC;
+	height: 18px;
+}
+.Textbox03 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #24476A;
+	background-color: #FFFFFF;
+	border: 1px solid #768DA4;
+	height: 18px;
+}
+.TextboxRead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #802D00;
+	background-color: #FAF8CE;
+	border: 1px solid #7796BA;
+}

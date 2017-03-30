@@ -1,0 +1,19 @@
+
+
+.mainsubMenu{border-collapse: collapse; 
+}
+.mainsubMenu .mainsubMenunor{
+   height: 19px;
+	text-align:left;
+	padding:2px 10px; 
+	color:#1B5680;
+}
+
+.mainsubMenu .mainsubMenunorOver{
+	border: 1px dotted #91B0D2;
+	background: url(../Img/mainsubMenuOverbg.png) repeat-x;
+   height: 18px;
+	text-align:left;
+	padding:2px 10px; 
+	color:#1B5680;
+}

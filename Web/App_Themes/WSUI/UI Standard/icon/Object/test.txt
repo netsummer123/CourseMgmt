@@ -1,0 +1,3 @@
+SMS.gif
+mail.gif 
+application-edit.gif

@@ -1,0 +1,36 @@
+﻿.Table001 {
+	border-collapse: collapse;
+	background-color: white;
+}
+..Table001 td {
+	border: 1px solid #CBDCE6;
+	color: #698596;
+	height: 22px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.Table001 th {
+	border: 1px solid #CBDCE6;
+	color: #2E7EAE;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-image: url(../Img/leftmenubg.jpg);
+	height: 25px;
+}
+.Table001 .tdOver {
+	background-color: #F6FBFD;
+}
+.Table001 .header {
+	color: #2E7EAE;
+	font-weight: bold;
+	background-image: url(../Img/leftmenubg.jpg);
+	height: 25px;
+}
+.Table002 {
+	border-collapse: collapse;
+}
+.Table002 td {
+	height: 22px;
+}
+.Table003 {
+	border-collapse: collapse;
+}

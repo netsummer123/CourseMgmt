@@ -1,0 +1,112 @@
+body
+{
+  background-color:White; 
+  font-family:Verdana; 
+  font-size:11px;
+  color:#3F3F3F; 
+}
+
+a
+{
+  color:#DD3409;
+  text-decoration:none; 
+}
+
+a:hover
+{
+  color:#DD3409;
+  text-decoration:underline; 
+}
+
+ul
+{
+  list-style-image: url(../images/menu/bullet.gif);
+  list-style-type:square; 
+  list-style-position:outside; 
+  margin-left:18px; 
+  margin-top:5px; 
+  color:#666666;
+  padding-left:2px;
+}
+
+ol
+{
+  list-style-position:outside; 
+  margin-left:25px; 
+  margin-top:5px; 
+}
+
+h1
+{
+  font-family:Verdana; 
+  font-weight:bold;
+  font-size:18px; 
+  color:#3F3F3F;
+  margin-top:12px; 
+  margin-bottom:40px; 
+}
+
+h2
+{
+  font-family:Verdana; 
+  font-weight:bold;
+  font-size:18px; 
+  color:#3F3F3F;
+  margin-top:15px; 
+  margin-bottom:15px; 
+}
+
+h3
+{
+  font-family:Verdana; 
+  font-weight:bold;
+  font-size:12px; 
+  margin-top:2px; 
+  margin-bottom:2px; 
+}
+
+.TopNavLink
+{
+  font-size:10px;
+  color:#3F3F3F; 
+}
+
+
+.WelcomeTitle
+{
+  font-family:Verdana;
+  font-size:23px;   
+  font-weight:900; 
+  letter-spacing:-0.2mm;
+  margin-top:10px; 
+  margin-bottom:20px; 
+}
+
+.MainText
+{
+  font-size:11px; 
+}
+
+.SmallText
+{
+  font-size:10px; 
+}
+
+.Hint
+{
+  color:Red;
+}
+
+
+input
+{
+  font-family: verdana; 
+  font-size: 11px; 
+}  
+
+select
+{
+  font-family:Verdana; 
+  font-size:11px;
+}
+

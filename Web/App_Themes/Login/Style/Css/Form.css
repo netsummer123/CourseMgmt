@@ -1,0 +1,116 @@
+.Textbox01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #797979;
+	background-color: #FFFFFF;
+	border: 1px solid #9F9F9F;
+	height: 16px;
+}
+
+.TextboxRead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #802D00;
+	background-color: #FAF8CE;
+	border: 1px solid #7796BA;
+}
+
+.TextboxLine {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #333333;
+	background: transparent;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: 1px solid #9C9491;
+}
+
+.TextArea01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #214B7E;
+	background-color: #F4F9FF;
+	border: 1px solid #7796BA;
+}
+
+.Select01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #0E4D90;
+	background-color: #FFFFFF;
+	border: 1px solid #7796BA;
+	height: 18px;
+}
+
+.Button01{ 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+color: #003677; 
+height: 20px; 
+border: solid 1px #5381B3; 
+padding-left:4px;
+padding-right:4px;
+background:#ffffff url(../Img/Button01bg.jpg) repeat-x bottom ;
+}
+
+.Button02{ 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+color: #003677; 
+height: 23px; 
+border: solid 1px #4573AA; 
+padding-left:2px;
+padding-right:2px;
+background:#ffffff url(../Img/botton-01.jpg) -2px ;
+}
+.Button03{ 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+color: #802D00; 
+height: 23px; 
+border: solid 1px #C26200; 
+padding-left:2px;
+padding-right:2px;
+background:#ffffff url(../Img/botton-03.jpg) -2px ;
+}
+.Button04{ 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+color: #24476A; 
+height: 18px; 
+border: solid 1px #768DA4; 
+padding:1px 0 0 0;
+background:#FFFFFF url(../Img/botton-04.jpg) ;
+}
+
+.topform{
+	border-collapse: collapse; background-color:white;
+	height:18px;
+}
+.topform td{
+	border:1px solid #3A6C89;
+	height: 19px;
+	padding: 0px;
+	background: url(../Img/searchbg.jpg) repeat-x;
+}
+.topform .iconbg{
+	background: url(../Img/searchbtbg.jpg) repeat-x;
+	text-align:center;
+	width:20px;
+}
+.topform input{
+	border:0px;
+	background: transparent;
+	height: 14px;
+	margin: 0px;
+   color:#073163;
+   font-size:12px; 
+   padding:0px 2px;      
+	width:130px;        
+}
+
+.SearchB{  padding:10px 0; }
+.SearchB p{  clear: left;	margin: 0px; padding: 0px;	height: 25px; line-height: 25px;	text-align: center;padding:2px 4px;
+white-space: nowrap; text-align: center; width:160px;padding-left:0px;}
+.SearchB .TextBox01{	width:75px; border:1px solid #A1A1A1;height:16px;line-height:16px;}

@@ -1,0 +1,411 @@
+
+/*- Menu Tabs 01--------------------------- */
+
+    .tabs01 {
+      float:left;
+      width:188px;
+      font-size:12px;
+      line-height:normal;		
+		background-image: url(../Img/tab01-bg.png);
+      }
+    .tabs01 ul {
+	  margin:0;
+	  padding:0;
+	  list-style:none;
+      }
+    .tabs01 li {
+      display:inline;
+      margin:0;
+      padding:0;
+      cursor:pointer;
+       color:#092F61;
+		 white-space: nowrap;
+     }
+    .tabs01 a {
+      float:left;
+      background:url("../Img/tab01-left.png") no-repeat left top;
+      margin:0;
+      padding:0 4px 0 4px;
+      text-decoration:none;
+      }
+    .tabs01 a span {
+      float:left;
+      display:block;
+      background:url("../Img/tab01-right.png") no-repeat right top;
+      padding:1px 6px 0 6px;
+      color:#092F61;
+      }
+    /* Commented Backslash Hack hides rule from IE5-Mac \*/
+    .tabs01 a span {float:none;}
+    /* End IE5-Mac hack */
+    .tabs01 a:hover span {
+      color:#092F61;
+      }
+    .tabs01 a:hover {
+      background-position:0% -50px;
+      }
+    .tabs01 a:hover span {
+      background-position:100% -50px;
+      }
+
+      .tabs01 .current a {
+      	background-position:0% -25px;
+      }
+      .tabs01 .current a span {
+      	background-position:100% -25px;
+      }
+		.tabs01 .current a:hover {
+      	background-position:0% -25px;
+      }
+      .tabs01 .current a:hover span {
+      	background-position:100% -25px;
+      }
+		.tabs01box {
+			height: 218px;
+			background-color: White;
+			border-right:#447EBE 1px solid;
+			border-bottom:#447EBE 1px solid;
+			padding: 10px;
+			width:168px;
+		}
+	    .tabs01box a {
+	      float:none;
+	      margin:0;
+	      background:none;
+	      padding:none;
+	      text-decoration:none;
+	      }
+
+
+/*- Menu Tabs 02--------------------------- */
+
+.tabs02{
+			border-left:#447EBE 1px solid;
+			border-right:#447EBE 1px solid;
+			border-top:#447EBE 1px solid;
+			width:80px;
+			height: 23px;
+			background-image: url(../Img/tab02nor.jpg);
+			text-align:center;
+			color:#092F61;
+}
+
+.tabs02cur{
+			border-left:#447EBE 1px solid;
+			border-right:#447EBE 1px solid;
+			border-top:#447EBE 1px solid;
+			width:80px;
+			height: 23px;
+			background-image: url(../Img/tab02cur.jpg);
+			text-align:center;
+			color:#092F61;
+}
+
+/*- Menu Tabs 03--------------------------- */
+
+.Tabs03{
+	
+}
+.Tabs03 .bg{
+	background-color: white;
+	height: 30px;
+	vertical-align: bottom;
+}
+.Tabs03 .tabbg{
+	border-bottom: 1px solid #447EBE;
+}
+.Tabs03 .nor{
+	border: 1px solid #447EBE;
+	height: 20px;
+	background-image: url(../Img/tabs03nor.jpg);
+	background-repeat: repeat-x;
+	padding:3px 8px;
+	color: #2677A5;
+	font-size: 14px;
+	font-weight: bold;
+	width:90px;
+}
+.Tabs03 .norOver{
+	border: 1px solid #447EBE;
+	height: 20px;
+	background-image: url(../Img/tabs03cur.jpg);
+	background-repeat: repeat-x;
+	padding:3px 8px;
+	color: #2677A5;
+	font-size: 14px;
+	font-weight: bold;
+	width:90px;
+}
+.Tabs03 .cur,.Tabs03 .curOver{
+	border-top: 1px solid #447EBE;
+	border-left: 1px solid #447EBE;
+	border-right: 1px solid #447EBE;
+	height: 20px;
+	background-image: url(../Img/tabs03cur.jpg);
+	background-repeat: repeat-x;
+	padding:3px 8px;
+	color: #2677A5;
+	font-size: 14px;
+	font-weight: bold;
+	width:90px;	
+}
+
+
+
+
+
+
+/*- Menu Tabs 03--------------------------- 
+
+.tabs03{
+			border-left:#447EBE 1px solid;
+			border-right:#447EBE 1px solid;
+			border-top:#447EBE 1px solid;
+			height: 23px;
+			background-image: url(../Img/tab02nor.jpg);
+			text-align:center;
+			color:#092F61;
+}
+
+.tabs03cur{
+			border-left:#447EBE 1px solid;
+			border-right:#447EBE 1px solid;
+			border-top:#447EBE 1px solid;
+			height: 23px;
+			background-image: url(../Img/tab02cur.jpg);
+			text-align:center;
+			color:#092F61;
+}
+*/
+
+/*- Main tab 首页左边tab样式--------------------------- */
+
+.maintab{
+	table-layout:fixed;	
+}
+.maintab .bg{
+	height: 22px;
+	vertical-align: bottom;
+	
+}
+.maintab .tabbg{
+	border-bottom: 1px solid #447EBE;
+}
+.maintab .nor{
+	border-bottom: 1px solid #447EBE;
+	height: 18px;
+	background-image: url(../Img/maintab-nor.jpg);
+	background-repeat: repeat-x;
+	padding:4px 2px 0px 2px;
+	color: #0C597F;
+	font-size: 12px;
+	text-align: center;
+   white-space: nowrap;
+	cursor: pointer;
+}
+.maintab .norOver{
+	border-bottom: 1px solid #447EBE;
+	height: 18px;
+	background-image: url(../Img/maintab-cur.png);
+	background-repeat: repeat-x;
+	padding:4px 2px 0px 2px;
+	color: #0C597F;
+	font-size: 12px;
+	text-align: center;
+   white-space: nowrap;
+		cursor: pointer;
+}
+.maintab .cur,.maintab .curOver{
+	height: 18px;
+	background-image: url(../Img/maintab-cur.png);
+	background-repeat: repeat-x;
+	padding:4px 2px 0px 2px;
+	color: #0C597F;
+	font-size: 12px;
+	text-align: center;
+   white-space: nowrap;
+		cursor: pointer;
+}
+/* 第二个起 tab样式 */
+.maintab .norright{
+	border-left: 1px solid #447EBE;
+	border-bottom: 1px solid #447EBE;
+	height: 18px;
+	background-image: url(../Img/maintab-nor.jpg);
+	background-repeat: repeat-x;
+	padding:4px 2px 0px 2px;
+	color: #0C597F;
+	font-size: 12px;
+	text-align: center;
+   white-space: nowrap;
+		cursor: pointer;
+}
+.maintab .norrightOver{
+	border-left: 1px solid #447EBE;
+	border-bottom: 1px solid #447EBE;
+	height: 18px;
+	background-image: url(../Img/maintab-cur.png);
+	background-repeat: repeat-x;
+	padding:4px 2px 0px 2px;
+	color: #0C597F;
+	font-size: 12px;
+	text-align: center;
+   white-space: nowrap;
+		cursor: pointer;
+}
+.maintab .curright,.maintab .currightOver{
+	border-left: 1px solid #447EBE;
+	height: 18px;
+	background-image: url(../Img/maintab-cur.png);
+	background-repeat: repeat-x;
+	padding:4px 2px 0px 2px;
+	color: #0C597F;
+	font-size: 12px;
+	text-align: center;
+   white-space: nowrap;
+		cursor: pointer;
+}
+
+.maintab .iconleft{
+	border-bottom: 1px solid #447EBE;
+	border-left: 1px solid #447EBE;
+	height: 22px;
+	background-image: url(../Img/maintableft.gif);
+	background-repeat: repeat-x;
+	padding:0px;
+	color: #0C597F;
+	font-size: 12px;
+	text-align: center;
+   white-space: nowrap;
+	width:20px;
+	table-layout:fixed;
+	cursor: pointer;
+}
+.maintab .iconright{
+	border-bottom: 1px solid #447EBE;
+	height: 22px;
+	background-image: url(../Img/maintabright.gif);
+	background-repeat: repeat-x;
+	padding:0px;
+	color: #0C597F;
+	font-size: 12px;
+	text-align: center;
+   white-space: nowrap;
+	width:20px;
+	table-layout:fixed;
+		cursor: pointer;
+}
+
+
+/* tab内容区 */
+
+
+
+.maintab .box{
+   vertical-align: top;
+}
+
+
+
+
+.maintab2{
+	table-layout:fixed;	
+}
+.maintab2 .bg{
+	height: 20px;
+	vertical-align: bottom;
+	
+}
+.maintab2 .tabbg{
+	border-bottom: 1px solid #447EBE;
+}
+.maintab2 .nor{
+	border: 1px solid #447EBE;
+	height: 18px;
+	background-image: url(../Img/maintab-nor.jpg);
+	background-repeat: repeat-x;
+	padding:4px 2px 0px 2px;
+	color: #0C597F;
+	font-size: 12px;
+	text-align: center;
+   white-space: nowrap;
+	cursor: pointer;
+}
+.maintab2 .norOver{
+	border: 1px solid #447EBE;
+	height: 18px;
+	background-image: url(../Img/maintab-cur.png);
+	background-repeat: repeat-x;
+	padding:4px 2px 0px 2px;
+	color: #0C597F;
+	font-size: 12px;
+	text-align: center;
+   white-space: nowrap;
+		cursor: pointer;
+}
+.maintab2 .cur,.maintab .curOver{
+	border-top: 1px solid #447EBE;
+	border-left: 1px solid #447EBE;
+	border-right: 1px solid #447EBE;
+	height: 18px;
+	background-image: url(../Img/maintab-cur.png);
+	background-repeat: repeat-x;
+	padding:4px 2px 0px 2px;
+	color: #0C597F;
+	font-size: 12px;
+	text-align: center;
+   white-space: nowrap;
+		cursor: pointer;
+}
+/* 第二个起 tab样式 */
+.maintab2 .norright{
+	border-right: 1px solid #447EBE;
+	border-top: 1px solid #447EBE;
+	border-bottom: 1px solid #447EBE;
+	height: 18px;
+	background-image: url(../Img/maintab-nor.jpg);
+	background-repeat: repeat-x;
+	padding:4px 2px 0px 2px;
+	color: #0C597F;
+	font-size: 12px;
+	text-align: center;
+   white-space: nowrap;
+		cursor: pointer;
+}
+.maintab2 .norrightOver{
+   border-top: 1px solid #447EBE;
+	border-right: 1px solid #447EBE;
+	border-bottom: 1px solid #447EBE;
+	height: 18px;
+	background-image: url(../Img/maintab-cur.png);
+	background-repeat: repeat-x;
+	padding:4px 2px 0px 2px;
+	color: #0C597F;
+	font-size: 12px;
+	text-align: center;
+   white-space: nowrap;
+		cursor: pointer;
+}
+.maintab2 .curright,.maintab2 .currightOver{
+	border-right: 1px solid #447EBE;
+	border-top: 1px solid #447EBE;
+	height: 18px;
+	background-image: url(../Img/maintab-cur.png);
+	background-repeat: repeat-x;
+	padding:4px 2px 0px 2px;
+	color: #0C597F;
+	font-size: 12px;
+	text-align: center;
+   white-space: nowrap;
+	cursor: pointer;
+}
+
+
+.maintab2 .maintab2box {   
+	border-right: 1px solid #447EBE;
+	border-left: 1px solid #447EBE;
+	border-bottom: 1px solid #447EBE;
+	vertical-align: top;
+	padding:10px;
+	background-color: white;
+}

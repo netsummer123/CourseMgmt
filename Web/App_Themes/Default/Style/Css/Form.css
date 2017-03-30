@@ -1,0 +1,525 @@
+.TopSearch{	float:right;padding-right: 20px; padding-top: 16px;}
+.TopSearch .TopSearchIn{	border-collapse: collapse; background-color:white;	height:20px; padding: 0px; margin: 0px;
+
+}
+.TopSearch .TopSearchIn td{	border:none;	height: 20px;	padding: 0px;	
+background: url(../Img/SearchAcenter.jpg) repeat-x top;}
+.TopSearch .TopSearchIn input{float: left; 
+	border:none;	
+	width:200px;
+	height: 19px;  
+	margin: 0px;padding:0px; overflow:hidden;
+   color:#838383;
+   font-size:12px;
+	background: url(../Img/SearchAcenter.jpg) repeat-x;
+	padding-top:4px;
+}
+
+.LeftTool{	float:left;padding-left: 10px;  padding-bottom: 10px;}
+.LeftTool .StockSearch{	border-collapse: collapse; background-color:white;	height:22px; padding: 0px; margin: 0px; clear: left;}
+.LeftTool .StockSearch td{	border:none;	height: 22px;	padding: 0px;	background: url(../Img/SearchAbg.jpg) repeat-x;}
+.LeftTool .StockSearch input{ float: left;
+	border:none;	
+	width:74px;
+	height: 18px; padding-top:3px;
+	margin: 0px;overflow:hidden;
+   color:#838383;
+   font-size:12px;
+	background: url(../Img/SearchBcenter.jpg) repeat-x top;
+}
+.LeftTool h1{ 
+	float: left;
+	color: #4B73B0;
+	width: 91px;
+	font-family: å¾®è½¯é›…é»‘; font-size: 12px; text-align: left; line-height: 22px;  
+}
+.LeftTool p{
+	padding-bottom: 8px;
+}
+
+
+
+
+.Button01{ 
+font-family:Î¢ÈíÑÅºÚ;  
+font-size: 14px; 
+color: #000000; 
+width: 87px;
+height: 33px; 
+border: none; 
+padding-top: 5px\9;
++padding-top: 5px;
+_padding-top: 5px;
+background:url(../Img/Btnbg01.gif) no-repeat 0px 5px;
+cursor: pointer;
+}
+
+.Button02{ 
+font-family:Î¢ÈíÑÅºÚ; 
+font-size: 14px; 
+color: #693915; 
+width: 77px;
+height: 29px; 
+border: none; 
+padding-top: 0px;
+* padding-top: 0px;
+padding-left: 24px;
+background:url(../Img/Btnbg02_print.jpg) no-repeat;
+cursor: pointer;
+}
+.Button03{ 
+font-family:Î¢ÈíÑÅºÚ; 
+font-size: 12px; 
+color: #000000; 
+height: 20px; 
+padding: 2px 5px;
+padding-top: 0px;
+*padding-top:0px;
+border: solid 1px #C26200; 
+background:#FEF6C5 url(../Img/Btnbg03.jpg) repeat-x bottom;
+margin-right: 8px;
+cursor: pointer;
+}
+.Button04{ 
+font-family:Î¢ÈíÑÅºÚ; 
+font-size: 14px; 
+color: #663812; 
+width: 67px;
+height: 34px; 
+border: none; 
+padding-top: 5px\9;
++padding-top: 5px;
+_padding-top: 5px;
+background:url(../Img/Btnbg04.gif) no-repeat 0px 5px;
+cursor: pointer;
+}
+.Button05{ 
+font-family:Î¢ÈíÑÅºÚ; 
+font-size: 14px; 
+color: #663812; 
+width: 87px;
+height: 34px; 
+border: none; 
+padding-top: 5px\9;
++padding-top: 5px;
+_padding-top: 5px;
+background:url(../Img/Btnbg05.gif) no-repeat 0px 5px;
+cursor: pointer;
+}
+.Button06{ 
+font-family:Î¢ÈíÑÅºÚ; 
+font-size: 12px; 
+color: #000000; 
+width: 94px;
+height: 22px; 
+border: none; 
+padding-top: 0px\9;
++padding-top: 0px;
+_padding-top: 0px;
+background:url(../Img/Btnbg06.gif) repeat-x;
+border: 1px solid #C3C3C3;
+cursor: pointer;
+}
+.Button06:hover{
+	background:#ffef96;
+}
+.Button07{ 
+font-family:Î¢ÈíÑÅºÚ; 
+font-size: 14px; 
+color: #663812; 
+width: 117px;
+height: 34px; 
+border: none; 
+padding-top: 5px\9;
++padding-top: 5px;
+_padding-top: 5px;
+background:url(../Img/Btnbg07.gif) no-repeat 0px 5px;
+cursor: pointer;
+}
+.Button08{ 
+width: 26px;
+height: 21px; 
+border: none; 
+padding-top: 5px\9;
++padding-top: 5px;
+_padding-top: 5px;
+background:url(../Img/Btnbg08.gif) no-repeat;
+cursor: pointer;
+}
+
+.Button09{ 
+font-family:Î¢ÈíÑÅºÚ; 
+font-size: 12px; 
+color: #000000; 
+height: 20px; 
+padding: 2px;
+padding-top: 0px;
+*padding-top:0px;
+border: solid 1px #A9A5A4; 
+background:#FEF6C5 url(../Img/Btnbg09.gif) repeat-x bottom;
+margin-right: 8px;
+cursor: pointer;
+}
+
+.Button10{ 
+font-family:Î¢ÈíÑÅºÚ; 
+font-size: 14px; 
+color: #693915; 
+width: 77px;
+height: 29px; 
+border: none; 
+padding-top: 0px;
+* padding-top: 0px;
+padding-left: 24px;
+background:url(../Img/Btnbg02_output.jpg) no-repeat;
+cursor: pointer;
+}
+
+
+.Btn_finish{ 
+font-family:Î¢ÈíÑÅºÚ; 
+font-size: 14px; 
+color: #693915; 
+width: 77px;
+height: 29px; 
+border: none; 
+padding-top: 0px;
+* padding-top: 0px;
+padding-left: 24px;
+background:url(../Img/Btn_finish.gif) no-repeat;
+cursor: pointer;
+}
+.Btn_delete{ 
+font-family:Î¢ÈíÑÅºÚ; 
+font-size: 14px; 
+color: #693915; 
+width: 77px;
+height: 29px; 
+border: none; 
+padding-top: 0px;
+* padding-top: 0px;
+padding-left: 24px;
+background:url(../Img/Btn_delete.gif) no-repeat;
+cursor: pointer;
+}
+
+
+.TextBox03{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color: #000000;
+	background-color: #FFFFFF;
+	border: none;
+	border:1px solid White;
+	border-bottom: 1px solid #D6D6D6;
+	height: 20px;
+	line-height: 20px;
+	padding-left: 4px;
+	white-space: nowrap;
+}
+
+.TextBox03:hover{
+	background-color: #FFEF96;
+	border: none;	
+	background: #FFEF96 url(../Img/i_edit.gif) no-repeat right;	
+	border: 1px solid #D6D6D6;
+}
+.TextBox03_2{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color: #000000;
+	background-color: #FFFFFF;
+	border: none;
+	border:1px solid White;
+	border-bottom: 1px solid #D6D6D6;
+	height: 20px;
+	line-height: 20px;
+	padding-left: 4px;
+	white-space: nowrap;
+}
+
+
+
+.TextBox03V{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color: #000000;
+	background-color: #FFFFFF;
+	border: none;
+	border:1px solid White;
+	height: 20px;
+	line-height: 20px;
+	padding-left: 4px;
+	white-space: nowrap;
+}
+
+.TextBox04{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+	background-color: #FFFFFF;
+	border: 1px solid #7F9CB9 ;
+	height: 20px;
+	line-height: 20px;
+	padding-left: 4px;
+    width: 180px;
+}
+.TextBox04:hover{
+	background-color: #FFEF96;
+}
+
+
+
+.TextBox05{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: #000000;
+	background-color: #FFFFFF;
+	border: none;
+	height: 20px;
+	line-height: 20px;
+	padding-left: 4px;
+}
+
+.TextBox05:hover{
+	background: #FFEF96 url(../Img/i_edit.gif) no-repeat right;
+	border: none;
+}
+
+.TextBox06{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+	background-color: #FFFFFF;
+	border: 1px solid #7DAEEB ;
+	height: 16px;
+	line-height: 18px;
+	padding-left: 4px;
+}
+
+.TextBox07{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+	background-color: #FAFAFA;
+	border: 1px solid #D7D7D7 ;
+	height: 16px;
+	padding-left: 4px;
+	margin-right: 10px;
+}
+
+
+.TextBox08{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: #000000;
+	background-color: #FFFFFF;
+	border: none;
+	height: 18px;
+	line-height: 18px;
+	padding-left: 4px;
+	border:1px solid #dadada;
+}
+
+.TextBox08:hover{
+	background: #FFEF96 url(../Img/i_edit.gif) no-repeat right;
+	border: none;
+	
+	border:1px solid #dadada;
+}
+
+
+
+.Select01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	background-color: #FFFFFF;
+	border: none;
+	border: 1px solid #7F9CB9;
+	height: 20px;
+	line-height:12px;
+	padding: 0;
+	padding-bottom: 2px;
+}
+.Select01:hover{
+	background-color: #FFEF96;
+}
+
+.Select02 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	background-color: #FFFFFF;
+	border: none;
+	border: 1px solid #C0CBDD;
+	height: 20px;
+	line-height:20px;
+}
+.Select02:hover{
+	background-color: #ffef96;
+}
+.Textarea01{
+	float:left;
+	border:1px solid #E7E7E7;
+	font-size: 14px; color: Black;
+	line-height: 22px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #ffffff;
+	padding: 4px;
+	margin-left: 10px;_margin-left: 5px;
+	text-align: left;
+}
+.Textarea02{
+	float:left;
+	border: none;
+	font-size: 12px; color: Black;
+	line-height: 22px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #ffffff;
+	text-align: left;
+}
+
+.Textarea03{
+	float:left;
+	border:1px solid #7E9DB9;
+	font-size: 14px; color: Black;
+	line-height: 22px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #ffffff;
+	padding: 4px;
+	text-align: left;
+}
+
+.Textarea04{
+	float:left;
+	border:1px solid #E7E7E7;
+	font-size: 14px; color: Black;
+	line-height: 22px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #ffffff;
+	padding: 4px;
+	text-align: left;
+	overflow-x: hidden;
+}
+.Textarea05{
+	border:1px solid #dadada;
+	font-size: 12px;
+}
+
+.Textarea05:hover{
+	background: #FFEF96 url(../Img/i_edit.gif) no-repeat right;
+	border:1px solid #dadada;
+}
+
+.Textarea06{
+	float:left;
+	border:1px solid #ADD2FF;
+	font-size: 14px; 
+	color: Black;
+	line-height: 22px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #ffffff;
+	padding: 4px;
+	text-align: left;
+}
+
+
+
+.TextBox {font-family: Verdana, Arial, Helvetica, sans-serif;border: 1px solid #C4D7E0;
+background-color: #FFFFFF;font-size: 9pt;color: #797979; font-weight: 100;padding: 1px;}
+
+.TextBox_n {font-family: Verdana, Arial, Helvetica, sans-serif;border:none; 
+background-color: #FFFFFF;font-size: 9pt;color: #797979; font-weight: 100;padding: 1px;}
+
+
+.textAreaStyle{
+	width:100%; 
+	border: none;
+	margin: 4px 0px ;
+}
+.textArea01{
+	width: 98%;
+	border: 1px solid #C4D7E0;
+	margin: 6px 0px ;    
+}
+.TextAreaStyleH{
+	width: 99%;
+	height: 50px;
+	border: 1px solid #DADBD6; 
+	margin: 6px 0px ;
+}
+.TextAreaStyleHH{
+	width: 99%;
+	height: 70px;
+	border: 1px solid #DADBD6;
+	margin: 6px 0px ;
+}
+.TextboxRead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #802D00;
+	background-color: #FAF8CE;
+	border: 1px solid #7796BA;
+	height: 16px;
+	line-height: 18px;
+	padding-left: 4px;
+}
+
+.TextboxLine {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #333333;
+	background: transparent;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: 1px solid #9C9491;
+}
+
+
+.SearchPartA{
+	
+}
+.SearchPartA td{
+	padding: 0 5px;
+}
+
+.TableFormA{
+	table-layout: fixed;
+	float: left;
+}
+.TableFormA td{
+	height:24px;
+	white-space: nowrap;
+	overflow: hidden;	
+}
+.TableFormA th{
+	height:24px;
+    text-align: center;
+}
+
+
+.TableFormB{
+	table-layout: fixed;
+	border-collapse: collapse;
+	border: 1px solid #bdbdbd;
+}
+.TableFormB td,.TableFormB th{
+	white-space: nowrap;
+	overflow: hidden;
+    border: 1px solid #ADD2FF; 		
+}
+.TableFormB .UserPic{
+	padding-right: 30px;
+}
+.TableFormB th,body .TableFormB th{
+	font-weight: normal;
+	text-align: right;  
+	height: 12px;
+}
+.TableFormB .ToolBar{
+	text-align: center;
+	padding: 10px 0;
+	padding-bottom: 20px;
+}

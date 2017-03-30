@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "resources", "http://localhost/resources/resources.csproj", "{B47BC68B-BE2E-49B4-BD96-6F173690D005}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = http://localhost/resources/resources.csproj
+		SccProjectName0 = \u0022$/resources/resources\u0022,\u0020WXAAAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = true
+		SccProjectEnlistmentChoice0 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B47BC68B-BE2E-49B4-BD96-6F173690D005}.Debug.ActiveCfg = Debug|.NET
+		{B47BC68B-BE2E-49B4-BD96-6F173690D005}.Debug.Build.0 = Debug|.NET
+		{B47BC68B-BE2E-49B4-BD96-6F173690D005}.Release.ActiveCfg = Release|.NET
+		{B47BC68B-BE2E-49B4-BD96-6F173690D005}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

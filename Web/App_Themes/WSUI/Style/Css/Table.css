@@ -1,0 +1,186 @@
+﻿.Table001 { border-collapse: collapse; background-color:white; }
+.Table001 td{
+	border: 1px solid #CBDCE6;
+	color: #698596;
+	height:22px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.Table001 .tdOver{
+   background-color: #F6FBFD;
+}
+.Table001 .header{ 
+	color: #2E7EAE;
+	font-weight: bold;
+	background-image: url(../Img/leftmenubg.jpg);
+	height: 25px;
+}
+.Table002 { border-collapse: collapse; background-color:white;
+	border: 1px solid #9AC2DD;
+}
+.Table002 td{
+	color: #698596;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.Table002 .header{
+	background-image: url(../Img/table002-bg.jpg);
+	height: 33px;
+	padding-left:20px;
+	color: #2D78A4;
+	border-bottom: 1px solid #9AC2DD;
+	font-size:14px;
+	font-weight: bold;
+	text-align:center;
+
+}
+
+.Table002 .bg{
+	background-image: url(../Img/table002-bg-03.jpg);
+	background-position: bottom;
+	background-repeat: repeat-x;
+	background-color: #F6F9FB;
+	
+}
+.Table002 .bottonbg{
+	height: 35px;
+	vertical-align: middle;
+	text-align:center;
+	
+}
+.Table002 .textbox{
+	background-color: white;
+	border: 1px solid #D8E3E8;
+	height:150px;
+}
+.people1{
+	height: 35px;
+	padding-left:8px;
+	background-color: #F5F9FB;
+}
+.people2{
+	border:1px dotted #D8E3E8;
+	padding-bottom:10px;
+}
+.peoplelist2{
+   float:left;
+	margin:8px; padding:0px;
+	height: 24px;
+}
+.peoplelist{
+   float:left;
+	margin: 0px;padding:0px;
+}
+.peoplelist ul{
+   float:left;
+	list-style: none;
+}
+.peoplelist ul li{
+   float:left;
+	margin: 8px;
+	height: 16px;
+	white-space: nowrap;
+}
+
+.Calendarword{
+	color: #0B5E95; 
+}
+
+.Calendarbar { border-collapse: collapse; background-color:white;
+}
+.Calendarbar td{
+	border: 1px solid #2F85BF;
+	height:20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-image: url(../Img/Calendarbg.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+	color: #126196; 
+}
+.Calendarbar .busy{
+	background-image: url(../Img/Calendarbg-02.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+	color: #126196; 
+	padding-left:10px;
+}
+.Timeline{
+	 border-collapse: collapse; background-color:white;
+}
+.Timeline td{
+	 background-image: url(../Img/timeline.gif);
+	 background-repeat: no-repeat;
+	 background-position: left;
+	 padding-top:8px;
+	 color: #126196; 
+	 border: 1px solid white;
+}
+.Calendarlist{
+	border-collapse: collapse; background-color:white;	 border: 1px solid #98CDE9;
+	background-color: #F0FAFF;
+}
+.Calendarlist td,.Calendarlist td a{
+   padding-left:10px;
+   height: 28px;
+	color: #0B5E95; 
+	
+}
+.Calendarlist .list,.Calendarlist .list a{
+   padding-left:10px;
+   height: 28px;
+	background-color: white;
+	color: #0B5E95; 
+}
+.Calendarlist td span,.Calendarlist .list span{
+	color:#2F85BF;
+}
+
+.Star{
+	border: 1px solid #7F9BBE;
+	background-image: url(../Img/starbg.jpg);
+	background-repeat: repeat-y;
+	background-position: center;
+	background-color: #E7F2F4;
+}
+.Star .title{
+	text-align: center;
+	color:#092F61;
+	height: 25px;
+   border-bottom: 1px dotted #0D6373;
+}
+.Star .searchtitle{
+	text-align: center;
+	color:#092F61;
+	height:28px;
+}
+
+.Star .Starphoto{
+	border: 3px solid #8BB7BF;
+}
+.Star .Name{
+	line-height:20px;
+	color:#B33700;
+	
+}
+.Star .Dep{
+	line-height:35px;
+	color:#0D6373;
+}
+.Star .line{
+	border-top:  1px dotted #0D6373;
+}
+.Star .textbox{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #0D6373;
+	background-color: #FFFFFF;
+	border: 1px solid #4C8E9A;
+	height: 14px;
+}
+.Table003 { border-collapse: collapse; }
+
+.Detail { border-collapse: collapse; background-color:#F3F3F3;
+	border: 1px solid #9AC2DD;
+}
+.Detail .Lefttextbox{
+	 background-color:white; 
+	 border: 1px solid #9AC2DD;
+}

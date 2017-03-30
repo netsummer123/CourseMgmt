@@ -1,0 +1,72 @@
+.Banner{
+	background:#0E84CD url(../Img/BannerRight.jpg) no-repeat right top;
+	height: 96px;
+	float: left;
+	overflow: hidden;
+} 
+.BannerRightBg{
+	
+}
+.Banner .BannerLeft{
+	height: 96px;
+	float: left;
+	width: 1000px;
+	background: url(../Img/BannerBg.jpg) no-repeat left top;
+	position: relative;
+}
+.Banner .BannerRight{
+	float: right;
+	width: 2px;
+	height: 108px;
+}
+.Banner .BannerLeft .TopInfo{
+   position: absolute;
+	color: white;
+	top: 70px;
+	left: 100px;
+	width:500px;
+	height: 25px;
+}
+.Banner .BannerLeft .TopInfo a{
+	color: #F6FF00;
+}
+.Banner .BannerLeft .TopInfo a:hover{ 
+   text-decoration: underline;
+}
+
+
+.Banner2{
+	background:#0E84CD url(../Img/BannerRight.jpg) no-repeat right -15px;
+	height: 60px;
+	float: left;
+	overflow: hidden;
+} 
+.Banner2RightBg{
+	
+}
+.Banner2 .BannerLeft{
+	height: 60px;
+	float: left;
+	width: 1000px;
+	background: url(../Img/BannerBg.jpg) no-repeat left -15px;
+	position: relative;
+}
+.Banner2 .BannerRight{
+	float: right;
+	width: 2px;
+	height: 108px;
+}
+.Banner2 .BannerLeft .TopInfo{
+   position: absolute;
+	color: white;
+	top: 65px;
+	left: 45px;
+	width:500px;
+	height: 25px;
+}
+.Banner2 .BannerLeft .TopInfo a{
+	color: #F6FF00;
+}
+.Banner2 .BannerLeft .TopInfo a:hover{ 
+   text-decoration: underline;
+}

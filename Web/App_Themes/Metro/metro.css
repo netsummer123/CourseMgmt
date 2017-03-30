@@ -1,0 +1,69 @@
+﻿.portal > .document > .submenu {
+    width: 173px;
+    height: 100%;
+}
+
+.portal > .document > .content {
+    height: 100%;
+    margin-left: 180px;
+    float: none;
+}
+
+.spliter-wrap {
+    float: left;
+    position: relative;
+    width: 7px;
+    height: 100%;
+    cursor: pointer;
+    /*background-color: #b4ccea;*/
+}
+
+.spliter {
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    height: 40px;
+    background: url('../Default/img/spliter-left.png') no-repeat;
+}
+
+    .spliter.right {
+        background-image: url('../Default/img/spliter-right.png');
+    }
+
+.iframe-main {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    border: 0px none;
+}
+
+.setting_detail > .clrpanel > div {
+    height: 20px !important;
+}
+
+.setting_detail .split > div {
+    height: 1px !important;
+    width: 147px !important;
+}
+
+.avatar_detail .split > div {
+    height: 1px !important;
+    width: 147px !important;
+    background-color: #000 !important;
+}
+
+.setting_detail > .action {
+    color: #000;
+}
+
+.avatar_detail > .right {
+    width: 170px !important;
+}
+
+.avatar_detail li.left img {
+    width: 160px !important;
+    height: 160px !important;
+    border: 1px solid #000 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}

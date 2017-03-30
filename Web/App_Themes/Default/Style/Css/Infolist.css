@@ -1,0 +1,639 @@
+.Add{
+	text-align: left;
+	background: url(../Img/ListimageD08.gif) no-repeat 0px 11px; 
+	padding-left: 14px;
+	font-size: 12px; font-weight: normal; color: #1C59B4; 
+	line-height: 30px;
+	height: 32px;
+	white-space: nowrap;
+}
+.Add a{
+	color:  #1C59B4;
+}
+.Add a:hover{
+	text-decoration: underline;
+}
+.RightToolTitle a{ 
+	text-align: center; color: #1C59B4; font-weight: normal ;
+}
+
+.RightToolBtn{ 
+	padding-right: 2px;
+	text-align: right;
+}
+.RightToolBtn a{
+	text-align: center; line-height: 32px;
+	border-left: 1px solid #B5CCDC;
+}
+.RightSeachBtn{
+    width: 38px; height: 32px;  text-align: center; 
+	 line-height: 32px;
+	 background: url(../Img/InfoImgBotton.gif) no-repeat 16px 12px; 
+	 border-left: 1px solid #B5CCDC;
+}
+.RightSeachBtn a{
+   display: block; width: 38px; height: 32px; 
+}
+
+.RightSeachBtn02{
+    width: 38px; height: 32px;  text-align: center; 
+	 line-height: 32px;
+	 background: url(../Img/InfoImgTop.gif) no-repeat 16px 12px; 
+	 border-left: 1px solid #B5CCDC;
+}
+.RightSeachBtn02 a{
+   display: block; width: 38px; height: 32px; 
+}
+
+
+.RightSeachBtnB{
+    width: 32px; height: 32px;  text-align: center; 
+	 line-height: 32px;
+	 background: url(../Img/InfoImgBotton.gif) no-repeat 16px 12px; 
+	 border-left: 1px solid #B5CCDC;
+}
+.RightSeachBtnB a{
+   display: block; width: 32px; height: 32px; 
+}
+
+.RightSeachBtnB02{
+    width: 32px; height: 32px;  text-align: center; 
+	 line-height: 32px;
+	 background: url(../Img/InfoImgTop.gif) no-repeat 16px 12px; 
+	 border-left: 1px solid #B5CCDC;
+}
+.RightSeachBtnB02 a{
+   display: block; width: 32px; height: 32px; 
+}
+
+
+
+.RightCloseBtn{
+    width: 38px; height: 32px;  text-align: center; 
+	 line-height: 32px;
+	 background: url(../Img/RightCloseBtn.gif) no-repeat 14px 10px; 
+}
+.RightCloseBtn a{
+   display: block; width: 38px; height: 32px; 
+}
+
+.Btn_Editor01{
+    width: 25px; height: 22px;  text-align: center; 
+	 line-height: 32px;color: #2056B6;
+	 background: url(../Img/Btn_Editor01.jpg) no-repeat top; 
+}
+.Btn_Editor01 a{
+   display: block; width: 25px; height: 22px; color: #2056B6;font-size: 12px;
+}
+.Btn_Editor02{
+    width: 25px; height: 44px;
+	 background: url(../Img/Btn_Editor02.jpg) no-repeat top; 
+}
+.Btn_Editor02 a,.Table02 .Btn_Editor02 a{
+   display: block; width: 20px; height: 38px;
+	color: #2056B6; 
+	font-size: 12px;
+	padding-top: 7px;
+	padding-left:3px;
+	line-height: 16px;
+	font-family:Î¢ÈíÑÅºÚ; 
+}
+.Btn_Editor02 a:link,.Btn_Editor02 a:visited{
+	color: #2056B6; 
+}
+
+.Red{
+	color: Red;
+	font-size: 12px;
+}
+.Red a{
+	color: Red;
+	font-size: 12px;
+}
+.Red:link{
+	color: Red;
+}
+.Red:visited{
+	color: #828282;
+}
+.RedBlod{
+	color: Red;
+	font-weight: bold;
+}
+.RedBlod a{
+	color: Red;
+}
+
+.RedStyle{
+	color: Red;
+	font-size: 12px;font-family:Î¢ÈíÑÅºÚ; 
+}
+.RedStyle a{
+	color: Red;
+	font-size: 12px;font-family:Î¢ÈíÑÅºÚ; 
+}
+.Grey{
+	color: #aeaeaf;
+}
+.Grey a{
+	color: #aeaeaf;
+}
+.Grey02{
+	color: #999999;
+	font-size: 14px; 
+	line-height: 28px; padding: 2px 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	background: #f4f4f4;
+}
+.Grey02 a{
+	color: #aeaeaf;
+}
+
+.Blue{
+	color: Blue;
+}
+.Blue a{
+	color: Blue;
+}
+.Blue:link{
+	color: Blue;
+}
+.Blue:visited{
+	color: #828282;
+}
+.Lock,.Lock a,
+.Lock:link,
+.Lock:visited,
+.Lock:hover,
+.Table04 .Lock td,
+.Lock td a,
+.Lock td a:link,
+.Lock td a:visited,
+.Lock td a:hover{
+	color: #C3C3C3 ;
+}
+.Table04 .Submit{
+	color: #a67837;
+}
+.Table04 .Submit a,.Table04 .Submit a:hover{
+	color: #a67837;
+}
+.Table04 .Submit a:link,.Table04 .Submit:link{
+	color: #a67837;
+}
+.Table04 .Submit a:visited,.Table04 .Submit:visited,.Table04 .Submit:visited{
+	color: #a67837;
+}
+
+
+.PeopleOnline{
+	color: Black;
+	background: url(../Img/PeopleOnline.gif) no-repeat 0px -1px; 
+	padding-left:24px;
+}
+.PeopleOffline{
+	color: Black;
+	background: url(../Img/PeopleOffline.gif) no-repeat 0px -1px; 
+	padding-left:24px;
+}
+
+.PeopleBusy{
+	color: Black;
+	background: url(../Img/PeopleBusy.gif) no-repeat 0px -1px; 
+	padding-left:24px;
+}
+.PeopleAway{
+	color: Black;
+	background: url(../Img/PeopleAway.gif) no-repeat 0px -1px; 
+	padding-left:24px;
+}
+
+
+
+
+.ListEmail{
+	color: Black;
+	background: url(../Img/i_Email.gif) no-repeat 0px -1px;  
+	padding-left:24px;
+	height:28px;
+}
+.ListMobile{
+	color: Black;
+	background: url(../Img/i_Mobile.gif) no-repeat 0px -1px;  
+	padding-left:24px;
+	height:28px;
+}
+.ListMobile2{
+	color: Black;
+	background: url(../Img/i_Mobile2.gif) no-repeat 0px -1px;  
+	padding-left:24px;
+	height:28px;
+}
+.ListOcs{
+	color: Black;
+	background: url(../Img/i_Ocs.gif) no-repeat 0px -1px;  
+	padding-left:24px;
+	height:28px;
+}
+.ListTerrace{
+	color: Black;
+	background: url(../Img/i_Terrace.gif) no-repeat 0px 0px; 
+	padding-left:22px;
+	height:18px;
+	line-height: 18px;
+}
+.InfolistA4{
+	color: Black;
+	background: url(../Img/ListimageD05.gif) no-repeat 8px 4px; 
+	padding-left:20px;
+}
+.TablePager{
+	width:100%; padding: 0px;
+}
+.SmsPager{
+	background:#F3F8FE;
+	clear: both;
+	float: left;
+	border-top: 1px solid #ADD2FF;
+}
+.DivFloatLeft{
+	float:left;width:50%;text-align:right;line-height:28px;
+}
+.DivFloatRight{
+	width:49%;line-height:28px;text-align:left; 
+	float: right;
+}
+.PagerItem{
+	font:12px Webdings;
+}
+.InputBtn{
+	 padding-top: 0px;
+	 * padding-top: 2px;
+	 width: 44px;
+}
+
+
+
+.Editor{
+	float: left; 
+	width: 100%; 
+}
+.Editor ul li{
+	float: left;
+	color: Black;
+	font-size: 14px;
+	line-height: 24px;
+	height: 30px;
+}
+.Editor03{
+	float: left; 
+	width: 100%; 
+}
+.Editor03 ul li{
+	float: left;
+	color: Black;
+	font-size: 14px;
+	line-height: 24px;
+}
+.Editor02 .Btn{
+   line-height:0px;
+}
+
+.Upload{
+	float: left; 
+}
+.Upload ul li{
+	float: left;
+	color: Black;
+	font-size: 14px;
+	line-height: 24px;
+	height: 24px;
+}
+.Upload span{
+	float: left;
+	padding-right:5px;
+}
+.Upload .TextBox_UL{
+	height: 20px;
+	border: 1px solid #d0d0d0;
+	background: White;
+	margin-right: 5px;
+}
+.Upload  .Button_UL{
+font-family:Î¢ÈíÑÅºÚ; 
+font-size: 12px; 
+color: #000000; 
+height: 20px; 
+padding-top: 0px;
+*padding-top:0px;
+border: solid 1px #A9A5A4; 
+background:#FEF6C5 url(../Img/Btnbg09.gif) repeat-x bottom;
+margin-right: 8px;
+cursor: pointer;	
+}
+.Down10{
+	padding-top: 10px;
+}
+.DownB10{
+	margin-top: 10px;
+}
+.Down5{
+	padding-top: 5px;
+}
+.Right10{
+	padding-left: 10px;
+	float: left;
+}
+.PL10{
+	padding-left: 10px;
+}
+.TxsAtt{
+	height: 27px;
+}
+.Top10{
+	padding-bottom: 10px;
+}
+.Top4{
+	padding-bottom: 4px;
+}
+.Number{
+	color: #1E58B4; 
+	line-height: 28px;
+	font-size: 12px;
+	white-space: nowrap;
+}
+
+.Editor02{
+	float: left; 
+	width:96%; 
+	padding-left: 10px;
+}
+.Editor02 ul li{
+	float: left;
+	color: Black;
+	font-size: 12px;
+	line-height: 24px;
+	height: 26px;
+	padding-top: 2px;
+}
+
+.EditorRight{
+	float: left; 
+	width:96%; 
+	padding-left: 10px;
+}
+.EditorRight ul li{
+	float: left;
+	color: Black;
+	font-size: 12px;
+	line-height: 24px;
+	height: 26px;
+	padding-top: 2px;
+}
+
+
+
+
+.Enclosure02{
+	float: left; 
+	width: 100%; 
+	color: #1657CD;
+	font-size: 12px;
+	line-height: 28px;
+	height: 28px;
+	text-align: left;
+}
+.Enclosure03{
+	float: left; 
+	width: 100%; 
+}
+.Enclosure03 ul li{
+	float: left;
+	color: #1657CD;
+	font-size: 12px;
+	line-height: 28px;
+	height: 28px;
+	margin-left: 12px;
+	margin-right: 20px;
+}
+.Enclosure03 ul li a{
+	text-decoration: underline;color: #1657CD;margin-right: 10px;
+}
+.Enclosure03 ul li a:hover{
+	text-decoration: underline;color: #1657CD;
+}
+
+.Attachment{
+	float: left; 
+}
+.Attachment ul li{
+	float: left;
+	color: #1657CD;
+	font-size: 12px;
+	line-height: 18px;
+	height: 20px;
+	margin-left: 0px;
+	margin-right: 0px;
+	white-space: nowrap;
+}
+.Attachment ul li a{
+	text-decoration: underline;color: #1657CD; margin-right: 10px;
+	white-space: nowrap;
+}
+.Attachment ul li a:hover{
+	text-decoration: underline;color: #1657CD;
+}
+.Attachment span{
+	float: left;
+	padding-left: 10px;
+	line-height: 18px;color: #1657CD;
+}
+
+
+
+
+.SelectTerrace{
+	height: 59px; 
+	background: url(../Img/SelectTerracebg.gif) repeat-x bottom;
+	border-bottom: 1px solid #ADD2FF; 	
+}
+.SearchBg01{
+	height: 40px;   width: 100%;
+	background: url(../Img/SelectTerracebg.gif) repeat-x bottom;
+	border-bottom: 1px solid #ADD2FF; 	
+}
+
+
+
+.InfolistA2{
+	width: 100%;
+	table-layout: fixed;
+    border-collapse: collapse;
+}
+.InfolistA2 *{
+	font-family: Arial;
+}
+.Tab_List01 .InfolistA2 th,.InfolistA2 th{
+	background: #e4effd;
+	padding: 0px 0 0 0px;
+	border-top:1px solid White;
+	height:24px;
+	border-bottom:1px solid #c8d9ef;
+	overflow: hidden;
+	color: #255086;
+    border: 1px solid #ADD2FF; 
+}
+.InfolistA2H{
+	background: #e4effd;
+}
+.InfolistA2 tr td{
+	line-height:28px; 
+	color: Black;
+	padding:1px 5px;
+	white-space: nowrap;
+	overflow: hidden;	
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+    border: 1px solid #ADD2FF; 	
+}
+.InfolistA2 .Title{
+	text-align: left; 
+}
+.InfolistA2 tr td a{
+	color: Black;
+}
+.InfolistA2 tr td a:{
+	color: #1E58B2 ;
+}
+.InfolistA2 tr td a:hover{
+	color: Red ;
+	text-decoration: underline;
+}
+.InfolistA2 tr td a:visited{
+	color: #979797;
+}
+.InfolistA2 tr:hover{
+   background: #EEF5FD;
+	color: Red;
+}
+.InfolistA2 tr:visited{
+   background: #EEF5FD;
+}
+
+
+
+.InfolistA3{
+	float:left;
+	color: #000000;
+	float:left;
+	white-space: nowrap;
+	clear: left;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+	width: 160px;
+}
+.InfolistA3 ul{
+	list-style: none;
+	float: left;
+	padding:4px 2px;
+	height: inherit;
+}
+.InfolistA3 ul li{
+	padding-left:4px;
+	line-height:28px;
+	float: left;
+	clear: left;
+	width: 420px;
+}
+.InfolistA3 ul li a{
+	color: #000000;
+	float:left;
+	white-space: nowrap;
+	clear: left;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+	width: 160px;
+}
+.InfolistA3 ul li a:hover{
+	text-decoration: underline;
+}
+.InfolistA3 .Name{
+float: left;
+	color: #000000;
+	height: 20px;
+	white-space: nowrap;
+	padding-left:10px;
+	font-size:12px;
+	width:40px;
+}
+.InfolistA3 .Dale{
+float: left;
+	color: #000000;
+	height: 20px;
+	white-space: nowrap;
+	padding-left:10px;
+	font-size:11px;
+	width:180px;
+}
+
+.InfolistA5{
+	float:left;
+	overflow: hidden;
+}
+.InfolistA5 ul{
+	list-style: none;
+	float: left;
+	padding:4px 2px;
+	height: inherit;
+}
+.InfolistA5 ul li{
+	background: url(../Img/Listimage01.gif) no-repeat 0px 4px;
+	padding:3px 0;
+	padding-left:15px;
+	line-height:14px;
+	float: left;
+	clear: left;
+	width: 160px;
+}
+.InfolistA5 ul li a{
+	color: #000000;
+}
+.InfolistA5 ul li a:hover{
+	text-decoration: underline;
+}
+
+
+.InfolistA6{
+	float:left;
+}
+.InfolistA6 ul{
+	list-style: none;
+	float: left;
+	padding:4px 2px;
+	height: inherit;
+}
+.InfolistA6 ul li{
+	background: url(../Img/Spaces.gif) no-repeat 14px 5px;
+	padding:7px 0;
+	padding-left:38px;
+	line-height:14px;
+	float: left;
+	clear: left;
+	width: 160px;
+}
+.InfolistA6 ul li a{
+	color: #000000;
+}
+.InfolistA6 ul li a:hover{
+	text-decoration: underline;
+}
+
+.Tab_List01 .SmsList{
+	border: none;
+	 margin-top: 0px;
+}
+.Tab_List01 .SmsList th{
+	border-top: none;
+}

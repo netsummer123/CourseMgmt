@@ -1,0 +1,184 @@
+BODY {
+	FONT-SIZE: 9pt; MARGIN: 0px; SCROLLBAR-HIGHLIGHT-COLOR: #efefef; SCROLLBAR-SHADOW-COLOR: #efefef; SCROLLBAR-ARROW-COLOR: #ffbd07; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; SCROLLBAR-DARKSHADOW-COLOR: #666666; SCROLLBAR-BASE-COLOR: #f1f1f1
+}
+.DialogForm
+{
+	margin: 5px;
+	background-color: #f5f8fc;
+}
+TD {
+	FONT-SIZE: 9pt
+}
+TH {
+	FONT-SIZE: 9pt; COLOR: #333333
+}
+HR {
+	WIDTH: 98%; COLOR: #999999; HEIGHT: 1px
+}
+HR.dot {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid
+}
+SELECT {
+	BORDER-RIGHT: #9c9491 1px solid; BORDER-TOP: #9c9491 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #9c9491 1px solid; COLOR: #333333; BORDER-BOTTOM: #9c9491 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #fffcf9
+}
+.InputBtn {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #999999 1px solid; COLOR: #000000; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 18px; BACKGROUND-COLOR: #f2f2f2
+}
+.InputBtn1 
+{
+	border: none;
+	background-color:Transparent;
+	color: Blue;
+	cursor: hand;
+}
+.Textbox {
+	BORDER-RIGHT: #9c9491 1px solid; BORDER-TOP: #9c9491 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #9c9491 1px solid; COLOR: #333333; BORDER-BOTTOM: #9c9491 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.TextboxLine {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-SIZE: 9pt; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-LEFT: medium none; COLOR: #333333; DIRECTION: ltr; BORDER-BOTTOM: #9c9491 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.TextboxLine1 {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-SIZE: 9pt; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-LEFT: medium none; COLOR: #333333; BORDER-BOTTOM: #9c9491 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.TextboxRead {
+	BORDER-RIGHT: #9c9491 1px solid; BORDER-TOP: #9c9491 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #9c9491 1px solid; COLOR: #333333; BORDER-BOTTOM: #9c9491 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #f2f2f2
+}
+.Table {
+	BORDER-RIGHT: #cdcdcd 1px solid; BORDER-TOP: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-COLLAPSE: collapse; BACKGROUND-COLOR: #ffffff
+}
+.Table TD {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.Noborder TD {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+.TableHeader {
+	FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(../images/Blue/TableTitleBg.gif); COLOR: #000000; HEIGHT: 23px; TEXT-ALIGN: center
+}
+.TableHeader A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.TableHeader A:hover {
+	COLOR: #3354a8; TEXT-DECORATION: none
+}
+.TableItem {
+	HEIGHT: 22px; BACKGROUND-COLOR: #E3EFFD; TEXT-ALIGN: center
+}
+.TableAlternatingItem {
+	HEIGHT: 22px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+.TableMouseOverItem {
+	COLOR: #666666; HEIGHT: 22px; BACKGROUND-COLOR: #fffeea; TEXT-ALIGN: center
+}
+.TableEditItem {
+	COLOR: #000000; BACKGROUND-COLOR: #fffeea; TEXT-ALIGN: center
+}
+.TablePager {
+	COLOR: #000000; HEIGHT: 25px; BACKGROUND-COLOR: #f5f5f5; TEXT-ALIGN: center
+}
+
+.TablePager A {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+.TablePager A:hover {
+	FONT-SIZE: 9pt; COLOR: #FF6600; TEXT-DECORATION: underline
+}
+.TableBorder {
+	BORDER-RIGHT: #437E2F 1px solid; BORDER-TOP: #437E2F 1px solid; BORDER-LEFT: #437E2F 1px solid; BORDER-BOTTOM: #437E2F 1px solid; BORDER-COLLAPSE: collapse; BACKGROUND-COLOR: #F3F3F3
+}
+
+A {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 9pt; COLOR: #FF6600; TEXT-DECORATION: underline
+}
+
+A.White {
+	FONT-SIZE: 9pt; COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+A.White:hover {
+	FONT-SIZE: 9pt; COLOR: #FFEA00; TEXT-DECORATION: underline
+}
+
+.title {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+.Date {
+	FONT-SIZE: 10px; COLOR: #666666
+}
+.Color1 {
+	FONT-SIZE: 9pt; COLOR: #a50000
+}
+.Red {
+	FONT-SIZE: 9pt; COLOR: red
+}
+.Orange {
+	FONT-SIZE: 9pt; COLOR: #ff6600
+}
+.Orange2 {
+	FONT-SIZE: 9pt; COLOR: #FF9E31
+}
+.White {
+	FONT-SIZE: 9pt; COLOR: white; font-family:@ËÎÌו;
+}
+.yellow {
+	FONT-SIZE: 9pt; COLOR:#FFEA00;
+}
+.Blue {
+	FONT-SIZE: 9pt; COLOR: blue
+}
+.Green {
+	FONT-SIZE: 9pt; COLOR: green
+}
+.Green a{
+	FONT-SIZE: 9pt; COLOR: green
+}
+.Gray {
+	FONT-SIZE: 9pt; COLOR: Gray;
+}
+.ArticleTitle {
+	FONT-WEIGHT: bolder; FONT-SIZE: 14pt; COLOR: #393039; FONT-STYLE: normal
+}
+.text12-bai {
+	FONT-SIZE: 12px; COLOR: #000000; TEXT-INDENT: 5px; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+.text12-bai b,.text12-bai label{
+	color: Black;
+}
+.text14-bai {
+	FONT-SIZE: 14px; COLOR: #ffffff; TEXT-INDENT: 5px; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+.text14-Gray {
+	FONT-SIZE: 14px; COLOR: #666666; TEXT-INDENT: 5px; LINE-HEIGHT: 20px; TEXT-DECORATION: none; font-weight: bold;
+}
+.JournalTitle {
+	FONT-WEIGHT: bolder; FONT-SIZE: 12pt; COLOR: #000000; FONT-STYLE: normal
+}
+.JournalNum {
+	FONT-SIZE: 9pt; COLOR: #000000
+}
+.dot-xuxian {
+	BORDER-BOTTOM: #666666 1px dotted
+}
+.tab_over {
+	FONT-WEIGHT: bold; border-right: #A4A4A4 1px solid; BACKGROUND-IMAGE: url(../images/Blue/tab_over_bg.gif); CURSOR: hand; COLOR: #000000; PADDING-BOTTOM: 1px; TEXT-ALIGN: center
+}
+.tab {
+	FONT-WEIGHT: normal; border-right: #A4A4A4 1px solid; BACKGROUND-IMAGE: url(../images/Blue/tab_unover_bg.gif); CURSOR: hand; COLOR: #000000; PADDING-BOTTOM: 1px; TEXT-ALIGN: center
+}
+.title1 {
+	background-image: url(../images/Blue/title_bg2.gif);background-repeat: no-repeat;
+}
+
+.GridBg {
+	background-image: url(../images/Blue/DataGrid_bg.gif);background-repeat: no-repeat; background-position: right bottom;
+	vertical-align: top;
+}
+.Content img
+{
+	border-top: solid 1px #666666;
+	border-left: solid 1px #666666;
+	border-right: solid 2px #666666;
+	border-bottom: solid 2px #666666;
+}

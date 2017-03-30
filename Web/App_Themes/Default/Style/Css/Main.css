@@ -1,0 +1,156 @@
+﻿.pager {
+    line-height: 25px;
+    height: 25px;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-right {
+    text-align: right;
+}
+
+/***下拉浮动框 begin***/
+.input-append {
+    position: relative;
+    font-size: 0px;
+    white-space: nowrap;
+}
+
+    .input-append input, .input-append select, .input-append .uneditable-input {
+        width: 150px;
+        font-size: 12px;
+        -webkit-border-radius: 4px 0 0 4px;
+        -moz-border-radius: 4px 0 0 4px;
+        border-radius: 4px 0 0 4px;
+    }
+
+    .input-append .add-on, .input-append .btn-group {
+        margin-left: -1px;
+    }
+
+.btn-group {
+    display: inline-block;
+}
+
+.dropdown-toggle {
+    padding: 3px 8px;
+    border-radius: 0px 4px 4px 0px;
+}
+
+.btn-dropdown {
+    background-image: url('../img/sys/bullet_arrow_down.png');
+    padding-left: 0px;
+    padding-right: 22px;
+    background-position: right center;
+}
+
+.dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 200px;
+    max-width: 100%;
+    padding: 5px 0;
+    margin: 2px 0 0;
+    list-style: none;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    *border-right-width: 2px;
+    *border-bottom-width: 2px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+}
+/***下拉浮动框 end***/
+
+.search {
+    border: 1px solid #5E5E5E;
+    width: 150px;
+    line-height: 20px;
+    color: #565656;
+    letter-spacing: 0px;
+}
+
+    .search slect {
+        height: 22px;
+    }
+
+
+.inputfield, .inputfield-file, .inputfield-number {
+    border: solid 1px #85b1de;
+    font-size: 12px;
+    height: 18px;
+    line-height: 18px;
+    vertical-align: top;
+}
+
+.inputfield-number {
+    font-size: 15px;
+    font-family: Consolas;
+}
+
+.list-number {
+    font-size: 12px;
+    font-family: Consolas;
+}
+
+select.inputfield, .inputfield-file {
+    height: 24px;
+    line-height: 24px;
+}
+
+.input-xmini {
+    width: 30px;
+}
+
+.input-mini {
+    width: 60px;
+}
+
+.input-small {
+    width: 90px;
+}
+
+.input-medium {
+    width: 150px;
+}
+
+.input-large {
+    width: 210px;
+}
+
+.input-xlarge {
+    width: 270px;
+}
+
+.input-xxlarge {
+    width: 530px;
+}
+
+.link-view {
+    color: green !important;
+}
+
+.link-edit {
+    color: blue !important;
+}
+
+.link-del {
+    color: red !important;
+}

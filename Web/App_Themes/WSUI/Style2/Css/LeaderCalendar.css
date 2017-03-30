@@ -1,0 +1,26 @@
+
+.CalendarTitle
+{
+	color: #4E698A;
+	font-size:12px;
+	background:#B7EAFF url(../Img/Tablebg02.jpg) repeat-x -3 -3;
+	height: 26px;
+}
+
+.AddItem
+{
+	FLOAT:left;
+	OVERFLOW:hidden;
+	WIDTH:45%;
+	background:white;
+	height:200px;
+	border:1px solid #D4D0C8;
+	padding-top:10px;
+	padding-left:10px
+}
+
+.AddItem td
+{
+	padding-top:4pt;
+	padding-bottom:4pt;
+}

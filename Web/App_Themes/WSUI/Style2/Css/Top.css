@@ -1,0 +1,27 @@
+.top-index{
+	background-image: url(../Img/topmenu01.jpg);
+	background-repeat: no-repeat;
+	background-position: top left;
+	width:57px;
+	height: 57px;
+	padding-right:10px;
+	cursor:pointer;
+}
+.top-mypage{
+	background-image: url(../Img/topmenu02.jpg);
+	background-repeat: no-repeat;
+	background-position: top left;
+	width:57px;
+	height: 57px;
+	padding-right:10px;
+	cursor:pointer;
+}
+.top-control{
+	background-image: url(../Img/topmenu03.jpg);
+	background-repeat: no-repeat;
+	background-position: top left;
+	width:57px;
+	height: 57px;
+	padding-right:10px;
+	cursor:pointer;
+}

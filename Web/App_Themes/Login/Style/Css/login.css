@@ -1,0 +1,106 @@
+
+.LoginBg {
+    background: url(../Img/WebBg.png);
+}
+
+.InputBtn2 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 9pt;
+    color: #0B678D;
+    height: 19px;
+    border: 1px solid #7EAFCC;
+    background-color: #E5F4FF;
+    padding-top: 1px;
+}
+
+.orange {
+    font-size: 12px;
+    color: #EC591F;
+}
+
+.gray {
+    font-size: 12px;
+    color: #5D5D5D;
+}
+
+.red {
+    font-size: 12px;
+    color: #FF0000;
+}
+
+.Login {
+    background: url(../Img/login-bg.png) no-repeat;
+    width: 1000px;
+    height: 760px;
+    margin: 0 auto;
+    position: relative;
+}
+
+    .Login .Input {
+        position: absolute;
+        top: 414px;
+        left: 335px;
+    }
+
+        .Login .Input p {
+            margin: 0px;
+            padding: 0px;
+            height: 50px;
+        }
+
+        .Login .Input .TextBox01 {
+            background-color: #fff !important;
+            border: none;
+            height: 35px;
+            line-height: 35px;
+            padding-left: 5px;
+            width: 363px;
+            color: Black;
+            font-size: 18px;
+        }
+
+    .Login .Btn {
+        position: absolute;
+        top: 602px;
+        left: 255px;
+    }
+
+        .Login .Btn a img {
+            width: 201px;
+            height: 41px;
+        }
+
+img {
+    border: 0px;
+}
+
+.ValidateCode {
+    position: absolute;
+    top: 527px;
+    left: 539px;
+}
+
+.Register {
+    position: absolute;
+    top: 602px;
+    left: 505px;
+    display: block;
+    background: #e8e8e8;
+    width: 201px;
+    height: 41px;
+    line-height: 41px;
+    font-size: 20px;
+    text-align: center;
+    color: #148dc6;
+    font-family: 'ËÎÌו';
+    cursor: pointer;
+}
+
+.white-bg {
+    background: #fff;
+    position: absolute;
+    top: 666px;
+    left: 325px;
+    width: 300px;
+    height: 40px;
+}

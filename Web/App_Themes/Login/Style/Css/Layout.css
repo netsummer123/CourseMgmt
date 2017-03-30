@@ -1,0 +1,112 @@
+.Main{
+	width: 100%;
+	float: left;
+	overflow-x:hidden
+}
+.BLeft{
+ position: absolute;
+ top: 0px;
+ left: 0px;
+ width: 170px;
+ color: #333333;
+ margin: 0px;
+ padding: 10px;
+ }
+
+.BRight{
+ position: absolute;
+ top: 0px;
+ right: 0px;
+ width: 251px;
+ color: #333333;
+ margin: 0px;
+ padding: 10px;
+ }
+ .BCenter{
+ position: relative;
+ margin:10px 271px 10px 200px;
+_padding-top:10px;/*for IE6.0 IE7.0*/
+_width:100%;/*for IE6.0 IE7.0*/
+ }
+
+.BMainRight2{
+ margin: 0px 0px 0px 190px;
+ background: #ffffff;
+ color: #333333;
+ position :relative;
+ width: auto;
+ overflow: hidden;
+_width:100%;/*for IE6.0 IE7.0*/
+ }
+ 
+.BMainRight3{
+ color: #333333;
+margin:10px 10px 10px 200px;
+_width:100%;/*for IE6.0 IE7.0*/
+ }
+
+.MainContent{
+	padding: 10px;
+	float: left;
+}
+ 
+  
+			
+
+ 
+ 
+ 
+
+
+
+.LeftBg01{
+	background: url(../Img/LeftBg01.jpg) repeat-y;
+}
+
+
+.Add{
+	background: #FEFFC4;
+	height: 25px;
+	line-height: 25px;
+	padding-left: 20px;	
+	color: #584000;
+	float: left;border-bottom: 1px solid #C5C697;
+}
+.Add .Left{
+	color: #584000;
+	float: left;
+	width: 500px;
+}
+.Add .Left a{
+	color: #584000;
+}
+.Add .Right{
+	float: right;
+}
+
+.ToolBar{
+	background: #F5F5F5;
+	height: 25px;
+	line-height: 25px;
+	padding-left: 20px;	
+	color: #584000;
+	float: left;
+	border-bottom: 1px solid #ECECEC;
+	float: left;
+}
+.ToolBar .Left{
+	color: #4A4A4A;
+	float: left;
+	width: 500px;
+}
+.ToolBar .Left a{
+	color: #4A4A4A;
+}
+.ToolBar .Right{
+	float: right;
+	width: 10px;
+}
+
+
+
+

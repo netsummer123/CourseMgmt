@@ -1,0 +1,83 @@
+.MainAdd{
+	margin: 0px auto;
+	width: 100%;
+	background: url(../Img/TabHeaderbg.jpg) repeat-x top; 
+}
+.DetailCenter{
+	margin: 0px auto;
+	width: 850px;
+}
+.DetailCenter2,.Center .DetailCenter2{
+	margin: 0 auto;
+	width: 870px;
+	margin-top: 10px;
+}
+.Popups{
+	
+}
+.Popups .Add{
+background-position: 10px 10px;
+padding-left: 22px;
+white-space: nowrap;
+}
+.Popups .Block{
+	padding: 20px;
+	padding-left: 40px;
+}
+.Popups .Block p{	
+	line-height: 15px;
+	text-indent: -22px;
+	padding: 2px 0;
+}
+.Popups .Block2{
+	padding: 20px;
+	padding-left: 40px;
+	text-align: center;
+}
+.Popups .Block2 p{	
+	line-height: 15px;
+	text-indent: -22px;
+	padding: 10px 0;
+}
+.TabSchedule tr td{
+	line-height:30px;
+}
+
+.Article{
+	padding:30px;
+}
+.Article h1{
+  text-align: center;
+  color:#066dcd;
+  font-size: 16px;
+}
+.Article h2{
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 3em;
+	text-align: center;
+	color: #a0a0a0;
+}
+.Article h3{
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 2em;
+}
+.Article .Detail{	
+   overflow: auto;
+	overflow-x: hidden;
+}
+
+
+.BtnArea01{
+	padding-right:10px;
+	padding-bottom: 8px;
+	padding-top:0px;
+	text-align: right;
+}
+.BtnArea02{
+	padding-right:10px;
+	padding-bottom: 18px;
+	padding-top:10px;
+	text-align: right;
+}

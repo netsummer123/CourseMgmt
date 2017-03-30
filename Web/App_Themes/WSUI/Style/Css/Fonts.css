@@ -1,0 +1,88 @@
+.Date {font-size:10px;color: #666666;}
+
+.or14-01{ color: #bf3f00; font-size: 14px; font-weight: bold; text-decoration: none; }
+.or14-01:link{ color: #bf3f00; font-size: 14px; font-weight: bold; text-decoration: none; }
+.or14-01:hover{ color: #c61b00; font-size: 14px; font-weight: bold; text-decoration: none; }
+.or-01{ color: #ac3902; font-size: 12px; }
+.or-01:link{ color: #ac3902; font-size: 12px; text-decoration: none; }
+.or-01:hover{ color: #c64100; font-size: 12px; text-decoration: underline; }
+.or-01b{ color: #ac3902; font-size: 12px;font-weight: bold; }
+.or-01b:link{ color: #ac3902; font-size: 12px; text-decoration: none; font-weight: bold;}
+.or-01b:hover{ color: #c64100; font-size: 12px; text-decoration: underline; }
+.or16-01{color: #bf3f00; font-size: 16px; font-weight: bold; text-decoration: none; }
+.blue-01{ color: #29577D; font-size: 12px;  text-decoration: none; }
+.blue-01:link{ color: #29577D; font-size: 12px;  text-decoration: none; }
+.blue-01:hover{ color: #bf3f00; font-size: 12px;  text-decoration: underline; }
+
+.blue-02{ color: #035fad; font-size: 12px; font-weight: bold; text-decoration: none; }
+.blue-02:link{ color: #035fad; font-size: 12px; font-weight: bold; text-decoration: none; }
+.blue-02:hover{ color: #bf3f00; font-size: 12px; font-weight: bold; text-decoration: underline; }
+.blue14-01{ color: #0071A4; font-size: 14px; font-weight: bold; }
+.blue14-01:link{ color: #0071A4; font-size: 14px; font-weight: bold;}
+.bule14-01:hover{ color: #c64100; font-size: 14px; font-weight: bold; text-decoration: underline; }
+
+.blue14-02{ color: #1f72b4; font-size: 14px; font-weight: bold; }
+.blue14-02:link{ color: #1f72b4; font-size: 14px; font-weight: bold;}
+.bule14-02:hover{ color: #c64100; font-size: 14px; font-weight: bold; text-decoration: underline; }
+
+.green14-01{ color: #3C5E00; font-size: 14px; font-weight: bold; }
+.green14-01:link{ color: #3C5E00; font-size: 14px; font-weight: bold;}
+.green14-01:hover{ color: #c64100; font-size: 14px; font-weight: bold; text-decoration: underline; }
+
+.green14-02{ color: #3C5E00; font-size: 14px; }
+.green14-02:link{ color: #3C5E00; font-size: 14px; }
+.green14-02:hover{ color: #c64100; font-size: 14px;  text-decoration: underline; }
+
+.green12-01{ color: #3C5E00; font-size: 12px;  }
+.green12-01:link{ color: #3C5E00; font-size: 12px; }
+.green12-01:hover{ color: #c64100; font-size: 12px;  text-decoration: underline; }
+
+.green12-02{ color: #568601; font-size: 12px;  }
+.green12-02:link{ color: #568601; font-size: 12px; }
+.green12-02:hover{ color: #c64100; font-size: 12px;  text-decoration: underline; }
+
+.green12-01b{ color: #3C5E00; font-size: 12px;  font-weight: bold; }
+.green12-01b:link{ color: #3C5E00; font-size: 12px;font-weight: bold;  }
+.green12-01b:hover{ color: #c64100; font-size: 12px;  text-decoration: underline; }
+
+.green12-02b{ color: #568601; font-size: 12px;  font-weight: bold; }
+.green12-02b:link{ color: #568601; font-size: 12px;font-weight: bold;  }
+.green12-02b:hover{ color: #c64100; font-size: 12px;  text-decoration: underline; }
+
+.gold12-01{ color: #7C5A06; font-size: 12px;  }
+.gold12-01:link{ color: #7C5A06; font-size: 12px; text-decoration: none; }
+.gold12-01:hover{ color: #c64100; font-size: 12px;  text-decoration: underline; }
+
+.red12-01{ color: #DE2A00; font-size: 12px;  }
+.red12-01:link{ color: #de2a00; font-size: 12px; text-decoration: none; }
+.red12-01:hover{ color: #c64100; font-size: 12px;  text-decoration: underline; }
+
+.red14-01{ color: #DE2A00; font-size: 14px;  }
+.red14-01:link{ color: #DE2A00; font-size: 14px; }
+.red14-01:hover{ color: #c64100; font-size: 14px;  text-decoration: underline; }
+
+.black-01{ color: black; font-size: 12px; text-decoration: none; }
+.black-01:link{ color: #000; font-size: 12px; text-decoration: none; }
+.black-01:hover{ color: #484848; font-size: 12px; text-decoration: underline; }
+
+.black14-01{ color: black; font-size: 14px; font-weight: bold; text-decoration: none; }
+.black14-01:link{ color: #000; font-size: 14px; text-decoration: none; }
+.black14-01:hover{ color: #484848; font-size: 14px; text-decoration: underline; }
+.gray-01{ color: #4e4e4e; font-size: 12px; text-decoration: none; }
+.gray-01:link{ color: #4e4e4e; font-size: 12px; text-decoration: none; }
+.gray-01:hover{ color: #000; font-size: 12px; text-decoration: underline; }
+.gray-02{ color: #6E6E6E; font-size: 12px; text-decoration: none; }
+.gray-02:link{ color: #6E6E6E; font-size: 12px; text-decoration: none; }
+.gray-02:hover{ color: #c64100; font-size: 12px; text-decoration: none; }
+.gray14-01{ color: #4e4e4e; font-size: 14px; text-decoration: none; }
+.gray14-01:link{ color: #4e4e4e; font-size: 14px; text-decoration: none; }
+.gray14-01:hover{ color: #000; font-size: 14px; text-decoration: underline; }
+.white12-01{ color: white; font-size: 12px; }
+.white12-01:link{color: white; font-size: 12px; }
+.white12-01:hover{ color: #fffadf; font-size: 124px; }
+.white14-01{ color: white; font-size: 14px; font-weight: bold; }
+.white14-01:link{color: white; font-size: 14px; font-weight: bold;}
+.white14-01:hover{ color: #fffadf; font-size: 14px; font-weight: bold; }
+.white16-01{ color: white; font-size: 16px; font-weight: bold; }
+.white16-01:link{color: white; font-size: 16px; font-weight: bold;}
+.white16-01:hover{ color: #fffadf; font-size: 16px; font-weight: bold; }

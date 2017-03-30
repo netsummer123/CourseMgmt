@@ -1,0 +1,76 @@
+﻿/* CSS Ver Basic */
+/* Version: 4.1 || Date: 2006-10-17 || Author: Cyrano */
+/* DOCTYPE html PUBLIC -//W3C//DTD XHTML 1.1//EN */
+
+@import url(lite.css);
+
+body {margin: 0px;font-family: Verdana, Arial, Helvetica, sans-serif;font-size: smaller;}
+
+a {font-size: small; color:#0e4f91; text-decoration: none;}
+a:hover {font-size: small; text-decoration: underline;}
+a img {border:none;}
+
+td {font-size: small;}
+th {font-size: small;}
+
+/* HTML Component Style */
+select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #333333;
+	background-color: #fdfdfd;
+	border: 1px solid #999999;
+}
+.InputBtn {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+	height: 19px;
+	border: 1px solid #999999;
+	background-color: #F2F2F2;
+	padding-top:1px;
+}
+.Textbox {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #333333;
+	background-color: #fdfdfd;
+	border: 1px solid #999999;
+}
+.TextboxLine {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #333333;
+	background: transparent;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: 1px solid #999999;
+}
+.TextboxRead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #333333;
+	background-color: #FAF8CE;
+	border: 1px solid #999999;
+}
+
+/*** Web 2.0 ***/
+/*** Div ***/
+div {margin:0px;padding:0px;}
+ul {margin:auto;padding:0px;}
+li {margin:auto;padding:0px; list-style-position:inside;}
+#Frame {position:relative;margin:auto;}
+
+/*** Part Class ***/
+.Part {margin:5px;}
+.Block {margin: 5px; padding:5px;}
+.Block ul {margin:5px;}
+.Block ul li {margin:3px;}
+.Block ul.NoDot {list-style:none;}
+.Block .DataLeft{float:left;}
+.Block .DataRight{float:right; font-size:10px;color: #666666; white-space:nowrap;}
+.More {text-align:right; padding:5px; clear:both;}
+.Clear {clear:both;}
+.DivFloatLeft{float:left;}
+.DivFloatRight{float:right; text-align:right;}

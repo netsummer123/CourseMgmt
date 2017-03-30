@@ -1,0 +1,158 @@
+BODY {
+	FONT-SIZE: 9pt; MARGIN: 0px; SCROLLBAR-HIGHLIGHT-COLOR: #efefef; SCROLLBAR-SHADOW-COLOR: #efefef; SCROLLBAR-ARROW-COLOR: #ffbd07; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; SCROLLBAR-DARKSHADOW-COLOR: #666666; SCROLLBAR-BASE-COLOR: #f1f1f1
+}
+TD {
+	FONT-SIZE: 9pt
+}
+TH {
+	FONT-SIZE: 9pt; COLOR: #333333
+}
+HR {
+	WIDTH: 98%; COLOR: #999999; HEIGHT: 1px
+}
+HR.dot {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid
+}
+SELECT {
+	BORDER-RIGHT: #9c9491 1px solid; BORDER-TOP: #9c9491 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #9c9491 1px solid; COLOR: #333333; BORDER-BOTTOM: #9c9491 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #fffcf9
+}
+.InputBtn {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #999999 1px solid; COLOR: #000000; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 18px; BACKGROUND-COLOR: #f2f2f2
+}
+.Textbox {
+	BORDER-RIGHT: #9c9491 1px solid; BORDER-TOP: #9c9491 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #9c9491 1px solid; COLOR: #333333; BORDER-BOTTOM: #9c9491 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.TextboxLine {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-SIZE: 9pt; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-LEFT: medium none; COLOR: #333333; BORDER-BOTTOM: #9c9491 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; direction:rtl;
+}
+.TextboxLine1 {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-SIZE: 9pt; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-LEFT: medium none; COLOR: #333333; BORDER-BOTTOM: #9c9491 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; text-align: center;
+}
+.TextboxRead {
+	BORDER-RIGHT: #9c9491 1px solid; BORDER-TOP: #9c9491 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #9c9491 1px solid; COLOR: #333333; BORDER-BOTTOM: #9c9491 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #f2f2f2
+}
+.Table {
+	BORDER-RIGHT: #cdcdcd 1px solid; BORDER-TOP: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-COLLAPSE: collapse; BACKGROUND-COLOR: #ffffff
+}
+.Table TD {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.Noborder TD {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+.TableHeader {
+	FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(../images/TableTitleBg.gif); COLOR: #000000; HEIGHT: 23px; TEXT-ALIGN: center
+}
+.TableHeader A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.TableHeader A:hover {
+	COLOR: #3354a8; TEXT-DECORATION: none
+}
+.TableItem {
+	BACKGROUND-COLOR: #f2f2f2; TEXT-ALIGN: center; height: 22px;
+}
+.TableAlternatingItem {
+	BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center; height: 22px;
+}
+.TableMouseOverItem {
+	COLOR: #666666; BACKGROUND-COLOR: #fffeea; TEXT-ALIGN: center; height: 22px;
+}
+.TableEditItem {
+	COLOR: #000000; BACKGROUND-COLOR: #ffffb1; TEXT-ALIGN: center
+}
+.TablePage {
+	COLOR: #ae0000; HEIGHT: 25px; BACKGROUND-COLOR: #f5f5f5; TEXT-ALIGN: center
+}
+
+a
+{
+	font-size: 9pt;
+	color: #000000;
+	text-decoration: none;
+}
+a:hover
+{
+	font-size: 9pt;
+	color: #A50000;
+	text-decoration: underline;
+}
+a:visited {
+	color: #800080;
+	text-decoration: none;
+}
+
+a.title
+{
+	font-size: 9pt;
+	color: #A50000;
+	text-decoration: none;
+}
+a.title:hover
+{
+	font-size: 9pt;
+	color: #A50000;
+	text-decoration: underline;
+}
+a.title:visited {
+	color: #800080;
+	text-decoration: none;
+}
+.Date {
+	FONT-SIZE: 10px; COLOR: #666666
+}
+.Color1 {
+	FONT-SIZE: 9pt; COLOR: #A50000;
+}
+.Color2 {
+	FONT-SIZE: 9pt; COLOR: #FF0000;
+}
+.Color3 {
+	FONT-SIZE: 9pt; COLOR: #ffffff;
+}
+.ArticleTitle {
+	FONT-WEIGHT: bolder; FONT-SIZE: 14pt; COLOR: #393039; FONT-STYLE: normal
+}
+.text12-bai {
+	font-size: 12px;
+	text-indent: 5; 
+	line-height: 20px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.JournalTitle
+{
+	font-size: 12pt;
+	font-weight: bolder;
+	font-style: normal;
+	color: #000000;
+}
+.JournalNum
+{
+	font-size: 9pt;
+	color: #000000;
+}
+.dot-xuxian {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #666666;
+}
+
+.tab_over
+{
+	color: #000000;
+	font-weight: bold;
+	background-image: url(../images/tab_over_bg.gif);
+	cursor: hand;
+	text-align: center;
+	padding-top: 3px;
+}
+.tab
+{
+	color: #000000;
+	font-weight: normal;
+	background-image: url(../images/tab_unover_bg.gif);
+	cursor: hand;
+	text-align: center;
+	padding-top: 3px;
+}

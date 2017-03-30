@@ -1,0 +1,78 @@
+﻿
+
+.noty_bar {
+    border: 1px solid;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 5px;
+}
+
+.noty_type_ajaxloading {
+    border: 0px none;
+}
+
+.ajaxloading {
+    background: url('img/LoadingProgressBar.gif');
+    height: 13px;
+    left: 50%;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 65px;
+}
+
+
+.noty_type_warning {
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+    color: #c09853;
+}
+
+.noty_type_success {
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    color: #468847;
+}
+
+.noty_type_info {
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    color: #3a87ad;
+}
+
+.noty_type_danger {
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    color: #b94a48;
+}
+
+.noty_type_confirm {
+    background-color: #fff;
+    border-color: #555;
+    color: #333;
+    padding: 0px;
+}
+
+.noty_message {
+    color: inherit;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    padding: 8px 10px 9px;
+    width: auto;
+    position: relative;
+}
+
+.noty_type_confirm .noty_message {
+    padding: 20px 10px;
+}
+
+.noty_text {
+    word-break: break-all;
+}
+.noty_buttons {
+    background-color: #f2f2f2;
+    border-top: 1px solid #ccc;
+    padding: 5px;
+    text-align: right;
+}

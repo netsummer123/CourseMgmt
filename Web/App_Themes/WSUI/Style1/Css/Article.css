@@ -1,0 +1,7 @@
+.article  { background-color: #FDFEFF;  margin: 10px; padding: 20px; border: dashed 1px #5C7898; background-image: url(../Img/contentbg.jpg); background-repeat: repeat-x; background-position: left bottom; width:100%}
+.article .title   { color: #da1f3d; font-size: 16px; font-weight: bold; line-height: 35px; text-align: center; height: 40px; }
+.article .title2   { color: #707070; font-size: 12px; text-align: center; height: 30px; }
+.article .text  { font-size: 14px; line-height: 22px; padding: 10px; color:#323232;}
+.article .fot  { text-align: right; height: 30px; }
+.article .linktitle  { font-size: 12px; font-weight: bold; background-image: url(../Images/Control/aarow-004.jpg); background-repeat: no-repeat; text-align: left; height: 16px; margin-left: 10px; padding-top: 6px; padding-left: 14px; }
+.article .list  { margin-top: -16px; margin-bottom: -14px; margin-left: -16px; }

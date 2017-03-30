@@ -1,0 +1,112 @@
+.WSCL_BG {
+	FONT: 10px Verdana; CURSOR: default; COLOR: #ffffff; BACKGROUND-COLOR: #a2bbd7
+}
+TABLE#WSCL_TableMain {
+	FONT: 12px Verdana 宋体; WIDTH: 142px; HEIGHT: 181px
+}
+TABLE#WSCL_TableWeek TD {
+	FONT: 12px 宋体; COLOR: #ffffff; PADDING-TOP: 2px
+}
+TABLE#WSCL_TableDay TD {
+	FONT: bold 10px Verdana; COLOR: #01166f; BACKGROUND-COLOR: #fafafa
+}
+TD#WSCL_YearHead {
+	FONT: 12px 宋体; COLOR: #01166f; PADDING-TOP: 2px
+}
+TD#WSCL_MonthHead {
+	FONT: 12px 宋体; COLOR: #01166f; PADDING-TOP: 2px
+}
+/*DIV#DIV_Calendar {
+	LEFT: 100px; FONT: 12px Verdana 宋体; OVERFLOW: hidden; WIDTH: 161px; POSITION: absolute; TOP: 100px; HEIGHT: 199px
+}*/
+.WSCL_Out {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; CURSOR: hand; BORDER-BOTTOM: #ffffff 1px solid; TEXT-ALIGN: center
+}
+.WSCL_Over {
+	BORDER-RIGHT: #f6f6f6 1px solid; BORDER-TOP: #f6f6f6 1px solid; BORDER-LEFT: #f6f6f6 1px solid; CURSOR: hand; BORDER-BOTTOM: #f6f6f6 1px solid; TEXT-ALIGN: center
+}
+.WSCL_Input {
+	BORDER-RIGHT: #a2bbd7 1px solid; BORDER-TOP: #a2bbd7 1px solid; FONT: 12px Verdana 宋体; BORDER-LEFT: #a2bbd7 1px solid; CURSOR: hand; COLOR: #01166f; PADDING-TOP: 0px; BORDER-BOTTOM: #a2bbd7 1px solid; HEIGHT: 18px; BACKGROUND-COLOR: #f3f8fe
+}
+.resetbtn {
+	BORDER-RIGHT: #a2bbd7 1px solid; BORDER-TOP: #a2bbd7 1px solid; FONT: 12px Verdana 宋体; BORDER-LEFT: #a2bbd7 1px solid; WIDTH: 100%; CURSOR: hand; COLOR: #01166f; PADDING-TOP: 2px; BORDER-BOTTOM: #a2bbd7 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: #f3f8fe
+}
+
+.Calendartoolbar{
+   height:24px;
+	background:#B7EAFF url(../Img/Calendartoolbarbg.jpg) repeat-x -4px;
+	border-bottom: 1px solid #447EBE;
+}
+.Calendartoolbar .Calendartable {  height:24px;}
+.Calendartoolbar .Calendartable tr td{
+  	border-top: 1px solid #ffffff;
+  	border-left: 1px solid #ffffff;
+	border-right: 1px solid #70A0D6;
+	color:#073163;
+	padding:0px 10px;
+	font-size:12px;
+   cursor: pointer;
+}
+.Calendartoolbar .Calendartable .CaltoolOver{
+	background:#B7EAFF url(../Img/CaltoolOver.jpg) repeat-x;
+}
+.Calendartoolbar .Calendartable tr td a{
+	color:#073163;	
+	line-height: 16px;
+}
+.Calendarword{
+	color: #0B5E95; 
+}
+.Calendartitle{
+	font-size: 14px;
+   font-weight: bold;
+	color:#0865A6;
+}
+.Calendarbar { border-collapse: collapse; background-color:white;
+}
+.Calendarbar td{
+	border: 1px solid #2F85BF;
+	height:20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-image: url(../Img/Calendarbg.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+	color: #126196; 
+}
+.Calendarbar .busy{
+	background-image: url(../Img/Calendarbg-02.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+	color: #126196; 
+	padding-left:10px;
+}
+.Timeline{
+	 border-collapse: collapse; background-color:white;
+}
+.Timeline td{
+	 background-image: url(../Img/timeline.gif);
+	 background-repeat: no-repeat;
+	 background-position: left;
+	 padding-top:8px;
+	 color: #126196; 
+	 border: 1px solid white;
+}
+.Calendarlist{
+	border-collapse: collapse; background-color:white;	 border: 1px solid #98CDE9;
+	background-color: #F0FAFF;
+}
+.Calendarlist td,.Calendarlist td a{
+   padding-left:10px;
+   height: 28px;
+	color: #0B5E95; 
+	
+}
+.Calendarlist .list,.Calendarlist .list a{
+   padding-left:10px;
+   height: 28px;
+	background-color: white;
+	color: #0B5E95; 
+}
+.Calendarlist td span,.Calendarlist .list span{
+	color:#2F85BF;
+}
