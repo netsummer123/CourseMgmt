@@ -32,7 +32,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <th>课堂出勤
+                        <th>课堂态度
                         </th>
                         <td>
                             <asp:TextBox ID="tbxRoutineScore1" runat="server" CssClass="TextBox04 validate[required,custom[integer],max[10]]"></asp:TextBox>
@@ -40,7 +40,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <th>课堂表现
+                        <th>问题研讨
                         </th>
                         <td>
                             <asp:TextBox ID="tbxRoutineScore2" runat="server" CssClass="TextBox04 validate[required,custom[integer],max[10]]"></asp:TextBox>
@@ -48,7 +48,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <th>课堂参与
+                        <th>话题演讲
                         </th>
                         <td>
                             <asp:TextBox ID="tbxRoutineScore3" runat="server" CssClass="TextBox04 validate[required,custom[integer],max[5]]"></asp:TextBox>

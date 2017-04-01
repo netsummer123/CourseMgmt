@@ -5719,6 +5719,13 @@
     <Compile Include="Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
+    <Compile Include="MasterPage\ListLarge.Master.cs">
+      <DependentUpon>ListLarge.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage\ListLarge.Master.designer.cs">
+      <DependentUpon>ListLarge.Master</DependentUpon>
+    </Compile>
     <Compile Include="Mgmt\Biz\CourseRelList.aspx.cs">
       <DependentUpon>CourseRelList.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -6028,6 +6035,7 @@
     <Content Include="Handler\DeptTree.ashx" />
     <Content Include="Mgmt\Teach\PerformReportTmpl1.xls" />
     <Content Include="Mgmt\Teach\PerformReportTmpl.xls" />
+    <Content Include="MasterPage\ListLarge.Master" />
     <None Include="Properties\PublishProfiles\Ken.pubxml" />
     <None Include="Properties\PublishProfiles\V4.0.pubxml" />
     <None Include="Properties\PublishProfiles\Web.pubxml" />
